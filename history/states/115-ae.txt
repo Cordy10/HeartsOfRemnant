@@ -1,0 +1,17 @@
+state={
+	id=115
+	name="STATE_115"
+	provinces={
+		194 274 488 507 876 1030 1063 1746 1785 2019 2040 2044 2047 
+	}
+	manpower=1000
+	buildings_max_level_factor=1.000
+	state_category = town	
+history={
+victory_points = { 2047 1 }
+buildings = { 
+infrastructure = 2 }
+		owner = SSP	
+		add_core_of = SSP
+	}
+}

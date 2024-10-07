@@ -1,0 +1,17 @@
+state={
+	id=98
+	name="STATE_98"
+	provinces={
+		320 484 685 692 726 1195 1365 1520 1544 2381 
+	}
+	manpower=1000
+	buildings_max_level_factor=1.000
+	state_category = town	
+history={
+victory_points = { 320 1 }
+buildings = { 
+infrastructure = 2 }
+		owner = CST
+		add_core_of = CST
+	}
+}

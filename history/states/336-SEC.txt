@@ -1,0 +1,20 @@
+
+state={
+	id=336
+	name="STATE_336"
+	provinces={
+		29 46 75 110 155 220 230 347 365 378 576 612 672 717 1101 1196 1317 1326 1385 1405 1409 1415 1689 1704 1814 1935 1951 1955 1957 1958 1969 1972 1973 1974 1975 
+	}
+history={
+victory_points = { 220 1 }
+	buildings = { 
+		infrastructure = 2 
+	}
+	owner = DWL
+	add_core_of = DWL
+}
+	manpower=100
+	state_category = town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

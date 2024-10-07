@@ -1,0 +1,16 @@
+characters={
+	VAL_leader={
+		name="King Of Vale"
+		portraits={
+			civilian = {
+				large="GFX_VAL_leader"
+			}
+		}
+		country_leader={
+			ideology = monarchistkingdom
+			expire = "3050.1.1.1"
+			traits = { constitutional_monarch champion_of_peace_1 the_sacred_king }
+			id=22322
+		}
+	}
+}

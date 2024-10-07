@@ -1,0 +1,14 @@
+state={
+	id=21
+	name="STATE_21"
+	provinces={
+		72 307 399 775 1115 1314 1741 2515 2519 2521 
+	}
+	manpower=3
+			state_category = wasteland
+history={
+victory_points = { 72 1 }
+		owner = GRM
+		add_core_of = GRM
+	}
+}

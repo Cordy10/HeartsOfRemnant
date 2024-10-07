@@ -1,0 +1,18 @@
+state={
+	id=41
+	name="STATE_41"
+	provinces={
+		185 449 522 1648 1753 2365 
+	}
+	manpower=1000
+	buildings_max_level_factor=1.000
+	state_category = town	
+        history={
+victory_points = { 1648 1 }
+buildings = { 
+infrastructure = 2 }
+		owner = VAC
+		
+		add_core_of = VAC
+	}
+}

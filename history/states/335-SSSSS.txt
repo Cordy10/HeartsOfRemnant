@@ -1,0 +1,19 @@
+state={
+	id=335
+	name="STATE_335"
+	provinces={
+		76 177 432 546 573 747 965 1053 1113 1370 1403 1631 1825 1862 
+	}
+history={
+victory_points = { 965 1 }
+	buildings = { 
+		infrastructure = 2 
+	}
+	owner = DSN
+	add_core_of = DSN
+}
+	manpower=100
+	state_category = town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

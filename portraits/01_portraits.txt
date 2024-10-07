@@ -1,0 +1,319 @@
+default = {
+	#navy = {
+		#male = {
+		#}
+		#female = {
+		#}
+	#}
+	
+	#army = {
+		#male = {
+		#}
+		#female = {
+		#}
+	#}
+
+	operative = {
+		male = {
+			"GFX_portrait_operative_unknown"
+		}
+		female = {
+			"GFX_portrait_operative_unknown"
+		}
+	}
+
+	male = {
+		"GFX_portrait_unknown"
+	}
+	female = {
+		"GFX_portrait_unknown_female"
+	}
+}
+
+continent = {
+	name = sanus
+	army = {
+		male = {
+			"GFX_Portrait_Europe_Generic_land_1"
+			"GFX_Portrait_Europe_Generic_land_2"
+			"GFX_Portrait_Europe_Generic_land_3"
+			"GFX_Portrait_Europe_Generic_land_4"
+			"GFX_Portrait_Europe_Generic_land_5"
+			"GFX_portrait_europe_generic_land_13"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_Portrait_Europe_Generic_navy_1"
+			"GFX_Portrait_Europe_Generic_navy_2"
+			"GFX_Portrait_Europe_Generic_navy_3"
+		}
+	}
+	
+	political = {
+		grimms_influence = {
+				male = { 
+					"GFX_Portrait_Europe_Generic_1"
+			}
+		}
+		democracy = {
+				male = { 
+					"GFX_Portrait_Europe_Generic_2" 
+			}
+		}
+		faunus_first = {
+				male = { 
+					"GFX_Portrait_Europe_Generic_3" 
+			}
+		}
+		humans_first = {
+				male = { 
+					"GFX_Portrait_Asia_Generic_3" 
+			}
+		}
+		tribalism = {
+				male = { 
+					"GFX_Portrait_Asia_Generic_3" 
+			}
+		}
+		monarchist = {
+				male = { 
+					"GFX_Portrait_Europe_Generic_3" 
+			}
+		}
+	}
+
+}
+
+continent = {
+	name = solitas
+	army = {
+		male = {
+			"GFX_Portrait_Europe_Generic_land_1"
+			"GFX_Portrait_Europe_Generic_land_2"
+			"GFX_Portrait_Europe_Generic_land_3"
+			"GFX_Portrait_Europe_Generic_land_4"
+			"GFX_Portrait_Europe_Generic_land_5"
+			"GFX_portrait_europe_generic_land_13"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_Portrait_Europe_Generic_navy_1"
+			"GFX_Portrait_Europe_Generic_navy_2"
+			"GFX_Portrait_Europe_Generic_navy_3"
+		}
+	}
+
+	political = {
+		grimms_influence = {
+				male = { 
+					"GFX_Portrait_Europe_Generic_1"
+			}
+		}
+		democracy = {
+				male = { 
+					"GFX_Portrait_Europe_Generic_2" 
+			}
+		}
+		faunus_first = {
+				male = { 
+					"GFX_Portrait_Europe_Generic_3" 
+			}
+		}
+		humans_first = {
+				male = { 
+					"GFX_Portrait_Asia_Generic_3" 
+			}
+		}
+		tribalism = {
+				male = { 
+					"GFX_Portrait_Asia_Generic_3" 
+			}
+		}
+		monarchist = {
+				male = { 
+					"GFX_Portrait_Europe_Generic_3" 
+			}
+		}
+	}
+
+}
+
+continent = {
+	name = menagerie
+	army = {
+		male = {
+			"GFX_Portrait_South_America_Generic_land_1"
+			"GFX_Portrait_South_America_Generic_land_2"
+			"GFX_Portrait_South_America_Generic_land_3"
+			"GFX_Portrait_South_America_Generic_land_4"
+			"GFX_Portrait_South_America_Generic_land_5"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_Portrait_South_America_Generic_navy_1"
+			"GFX_Portrait_South_America_Generic_navy_2"
+			"GFX_Portrait_South_America_Generic_navy_3"
+		}
+	}
+	
+	political = {
+		grimms_influence = {
+				male = { 
+					"GFX_Portrait_South_America_Generic_1"
+			}
+		}
+		democracy = {
+				male = { 
+					"GFX_Portrait_South_America_Generic_2" 
+			}
+		}
+		faunus_first = {
+				male = { 
+					"GFX_Portrait_South_America_Generic_3" 
+			}
+		}
+		humans_first = {
+				male = { 
+					"GFX_Portrait_Asia_Generic_3" 
+			}
+		}
+		tribalism = {
+				male = { 
+					"GFX_Portrait_Asia_Generic_3" 
+			}
+		}
+		monarchist = {
+				male = { 
+					"GFX_Portrait_South_America_Generic_3" 
+			}
+		}
+	}
+
+}
+
+continent = {
+	name = draco
+	army = {
+		male = {
+			"GFX_Portrait_Africa_Generic_land_1"
+			"GFX_Portrait_Africa_Generic_land_2"
+			"GFX_Portrait_Africa_Generic_land_3"
+			"GFX_Portrait_South_Africa_Army_Generic"
+			"GFX_Portrait_South_Africa_Army_Generic_2"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_Portrait_Africa_Generic_navy_1"
+			"GFX_Portrait_Africa_Generic_navy_2"
+			"GFX_Portrait_Africa_Generic_navy_3"
+		}
+	}
+	
+	political = {
+		grimms_influence = {
+				male = { 
+					"GFX_Portrait_Africa_Generic_1"	
+					"GFX_Portrait_South_Africa_Political_Leader_Generic_2"
+					"GFX_Portrait_South_Africa_Political_Leader_Generic"
+			}
+		}
+		democracy = {
+				male = { 
+					"GFX_Portrait_Africa_Generic_2" 
+					"GFX_Portrait_South_Africa_Political_Leader_Generic"
+					"GFX_Portrait_South_Africa_Political_Leader_Generic_2"		
+			}
+		}
+		faunus_first = {
+				male = { 
+					"GFX_Portrait_Africa_Generic_3" 
+					"GFX_Portrait_South_Africa_Political_Leader_Generic"
+					"GFX_Portrait_South_Africa_Political_Leader_Generic_2"
+					"GFX_Portrait_South_Africa_Army_Generic"
+					"GFX_Portrait_South_Africa_Army_Generic_2"
+			}
+		}
+		humans_first = {
+				male = { 
+					"GFX_Portrait_Asia_Generic_3" 
+			}
+		}
+		tribalism = {
+				male = { 
+					"GFX_Portrait_Asia_Generic_3" 
+			}
+		}
+		monarchist = {
+				male = { 
+					"GFX_Portrait_Africa_Generic_3" 
+					"GFX_Portrait_South_Africa_Political_Leader_Generic"
+					"GFX_Portrait_South_Africa_Political_Leader_Generic_2"
+			}
+		}
+	}
+
+
+}
+
+continent = {
+	name = anima
+	army = {
+		male = {
+			"GFX_Portrait_Asia_Generic_land_1"
+			"GFX_Portrait_Asia_Generic_land_2"
+			"GFX_Portrait_Asia_Generic_land_3"
+			"GFX_Portrait_Asia_Generic_land_4"
+			"GFX_Portrait_Asia_Generic_land_5"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_Portrait_Asia_Generic_navy_1"
+			"GFX_Portrait_Asia_Generic_navy_2"
+			"GFX_Portrait_Asia_Generic_navy_3"
+		}
+	}
+
+	political = {
+		grimms_influence = {
+				male = { 
+					"GFX_Portrait_Asia_Generic_1"
+			}
+		}
+		democracy = {
+				male = { 
+					"GFX_Portrait_Asia_Generic_2" 
+			}
+		}
+		faunus_first = {
+				male = { 
+					"GFX_Portrait_Asia_Generic_3" 
+			}
+		humans_first = {
+				male = { 
+					"GFX_Portrait_Asia_Generic_3" 
+			}
+		}
+		tribalism = {
+				male = { 
+					"GFX_Portrait_Asia_Generic_3" 
+			}
+		}
+		monarchist = {
+				male = { 
+					"GFX_Portrait_Asia_Generic_3" 
+			}
+		}
+	}	
+
+}
+

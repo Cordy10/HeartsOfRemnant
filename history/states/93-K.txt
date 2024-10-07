@@ -1,0 +1,17 @@
+state={
+	id=93
+	name="STATE_93"
+	provinces={
+		32 142 342 572 654 1058 1091 1154 1161 1239 1244 1687 1698 2108 2113 2125 2196 
+	}
+	manpower=1000
+	buildings_max_level_factor=1.000
+	state_category = town	
+history={
+victory_points = { 1687 1 }
+		owner = DBP
+		add_core_of = DBP
+buildings = { 
+infrastructure = 2 }
+	}
+}

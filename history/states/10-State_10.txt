@@ -1,0 +1,16 @@
+state={
+	id=10
+	name="Northern Menagerie"
+	provinces={
+	301 1773 1307 1793 67 1492 2491 2487 195 1335
+	}
+	manpower=8760
+    state_category = town	
+	buildings_max_level_factor=1.000
+history={
+victory_points = { 1307 1 }
+		owner = GRM
+		add_core_of = GRM
+	}
+
+}

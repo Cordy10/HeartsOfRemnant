@@ -1,0 +1,7 @@
+continents = {
+	sanus
+	anima
+	solitas
+	menagerie
+	draco
+}

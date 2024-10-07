@@ -1,0 +1,17 @@
+state={
+	id=275
+	name="STATE_275"
+	provinces={
+		180 556 605 653 873 1551 
+	}
+	manpower=1000
+	buildings_max_level_factor=1.000
+	state_category = town	
+history={
+victory_points = { 653 1 }
+buildings = { 
+infrastructure = 2 }
+		owner = MGC
+		add_core_of = MGC
+		}
+}

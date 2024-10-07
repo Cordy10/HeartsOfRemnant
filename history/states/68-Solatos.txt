@@ -1,0 +1,22 @@
+state={
+	id=68
+	name="STATE_68"
+	provinces={
+		661 675 1425 1435 1439 1829 1950 1953 1956 1962 1965 
+	}
+	manpower=4450
+state_category = town
+	buildings_max_level_factor=1.000
+			history={
+victory_points = { 1953 1 }
+		owner = ATL
+		
+		add_core_of = ATL
+   buildings = {
+arms_factory = 1
+industrial_complex = 3
+infrastructure = 3
+
+}
+	}
+}

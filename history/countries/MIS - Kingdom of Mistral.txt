@@ -1,0 +1,35 @@
+﻿capital = 62
+
+#oob = "MIS_100"
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+	gw_artillery = 1
+	early_fighter = 1
+}
+
+
+set_convoys = 10
+
+set_popularities = {
+        democracy = 20
+        tribalism = 25
+        grimms_influence = 10
+        monarchist = 40
+        humans_first = 5
+        faunus_first = 0
+
+}
+
+set_politics = {
+	
+	ruling_party = monarchist
+	last_election = "100.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+}
+
+recruit_character = MIS_leader

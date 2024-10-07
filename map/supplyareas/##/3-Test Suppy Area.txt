@@ -1,0 +1,8 @@
+supply_area={
+	id=4
+	name="Vytal"
+	value=12
+	states={
+		11
+	}
+}

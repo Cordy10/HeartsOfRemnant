@@ -1,0 +1,21 @@
+state={
+	id=73
+	name="STATE_73"
+	provinces={
+		56 802 1123 1645 1936 1941 
+	}
+	manpower=5000
+	buildings_max_level_factor=1.000
+state_category = town
+		history={
+victory_points = { 802 1 }
+		owner = ATL
+		
+		add_core_of = ATL
+        buildings = {
+industrial_complex = 1
+infrastructure = 5
+
+}
+	}	
+}

@@ -1,0 +1,46 @@
+bookmarks = {
+	bookmark = {
+		name = "the_era_of_four_kingdoms_name"
+		desc = "the_era_of_four_kingdoms_desc"
+		date = 100.1.1.12
+		default_country = "VAL"
+		default = yes
+		"VAL" = {
+			history = "the_era_of_four_kingdoms_VAL"
+			ideology = monarchist
+		}
+		"ATL" = {
+			history = "the_era_of_four_kingdoms_VAL"
+			ideology = monarchist
+		}
+		"GRM" = {
+			history = "the_era_of_four_kingdoms_VAL"
+			ideology = grimms_influence
+		}
+		"VAC" = {
+			history = "the_era_of_four_kingdoms_VAL"
+			ideology = monarchist
+		}
+		"MIS" = {
+			history = "the_era_of_four_kingdoms_VAL"
+			ideology = monarchist
+		}
+		"BRA" = {
+			history = "the_era_of_four_kingdoms_VAL"
+			ideology = tribalism
+			minor = yes
+		}
+		"UUP" = {
+			history = "the_era_of_four_kingdoms_VAL"
+			ideology = tribalism
+			minor = yes
+		}
+		"---"={
+			history = "the_era_of_four_kingdoms_VAL"
+		}
+		effect = {
+			randomize_weather = 22345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}

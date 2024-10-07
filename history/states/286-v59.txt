@@ -1,0 +1,17 @@
+state={
+	id=286
+	name="STATE_286"
+	provinces={
+		419 519 810 812 1002 1347 1610 1622 2324 2332 2344 2345 2357 
+	}
+	manpower=1000
+	buildings_max_level_factor=1.000
+	state_category = town	
+history={
+victory_points = { 1347 1 }
+buildings = { 
+infrastructure = 2 }
+		owner = SMH
+		add_core_of = SMH
+	}
+}

@@ -1,0 +1,17 @@
+
+state={
+	id=17
+	name="STATE_17"
+	provinces={
+		2509 
+	}
+	manpower=2000
+	buildings_max_level_factor=1.000
+		state_category = town
+history={
+victory_points = { 2509 1 }
+		owner = WTF
+		
+		add_core_of = WTF
+	}
+}

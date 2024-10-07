@@ -1,0 +1,19 @@
+state={
+	id=339
+	name="STATE_339"
+	provinces={
+		225 261 598 888 1131 1414 1438 1485 1590 1748 
+	}
+history={
+	victory_points = { 225 1 }
+	buildings = { 
+		infrastructure = 2 
+	}
+	owner = DSN
+	add_core_of = DSN
+}
+	manpower=100
+	state_category = town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

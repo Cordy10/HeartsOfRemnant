@@ -1,0 +1,22 @@
+state={
+	id=69
+	name="STATE_69"
+	provinces={
+		768 1175 1188 1447 1593 1765 1952 1960 1961 1964 1968 
+	}
+	manpower=7600
+state_category = rural
+	buildings_max_level_factor=1.000
+			history={
+victory_points = { 1765 1 }
+		owner = ATL
+		
+		add_core_of = ATL
+   buildings = {
+industrial_complex = 1
+infrastructure = 5
+
+
+}
+	}
+}

@@ -1,0 +1,17 @@
+state={
+	id=309
+	name="STATE_309"
+	provinces={
+		132 293 302 900 2178 2187 
+	}
+	manpower=1000
+	buildings_max_level_factor=1.000
+	state_category = town	
+history={
+victory_points = { 2178 1 }
+buildings = { 
+infrastructure = 2 }
+		owner = SRN
+		add_core_of = SRN
+	}
+}

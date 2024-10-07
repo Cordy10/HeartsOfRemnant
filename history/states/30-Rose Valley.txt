@@ -1,0 +1,21 @@
+
+state={
+	id=30
+	name="STATE_30"
+	provinces={
+		1542 1784 2162 2170 2177 2191 2194 2202 
+	}
+	manpower=1000
+	buildings_max_level_factor=1.000
+	state_category = town	
+	history={
+		owner = VAL
+		victory_points = { 2194 5 }
+		add_core_of = VAL
+	buildings = {
+	infrastructure = 2
+            industrial_complex = 1
+            arms_factory = 1
+	}
+	}
+}

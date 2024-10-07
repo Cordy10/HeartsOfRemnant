@@ -1,0 +1,17 @@
+state={
+	id=159
+	name="STATE_159"
+	provinces={
+		221 650 1227 1752 2292 
+	}
+	manpower=1000
+	buildings_max_level_factor=1.000
+	state_category = town	
+history={
+victory_points = { 2292 1 }
+buildings = { 
+infrastructure = 2 }
+		owner = SAB
+		add_core_of = SAB
+	}
+}

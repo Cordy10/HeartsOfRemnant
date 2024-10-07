@@ -1,0 +1,16 @@
+characters={
+	VAC_leader={
+		name="Queen Of Vacuo"
+		portraits={
+			civilian={
+				large= "GFX_VAC_leader"
+			}
+		}
+		country_leader={
+			ideology=monarchistkingdom
+			expire = "3050.1.1.1"
+			traits = { }
+			id = -1
+		}
+	}
+}

@@ -1,0 +1,17 @@
+state={
+	id=86
+	name="STATE_86"
+	provinces={
+		346 636 807 1075 1247 1256 2224 2244 
+	}
+	manpower=1000
+	buildings_max_level_factor=1.000
+	state_category = town	
+	history={
+victory_points = { 2224 1 }
+		owner = NAB
+		add_core_of = NAB
+buildings = { 
+infrastructure = 2 }
+	}
+}

@@ -1,0 +1,18 @@
+state={
+	id=83
+	name="STATE_83"
+	provinces={
+		371 470 631 658 903 1135 1421 1715 2225 2233 2237 2240 2249 2261 2285 
+	}
+	manpower=1000
+	buildings_max_level_factor=1.000
+	state_category = town	
+
+		history={
+victory_points = { 1715 1 }
+		owner = MIS
+buildings = { 
+infrastructure = 2 }		
+		add_core_of = MIS
+	}	
+}

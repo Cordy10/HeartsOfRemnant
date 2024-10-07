@@ -1,0 +1,17 @@
+state={
+	id=114
+	name="STATE_114"
+	provinces={
+		152 245 533 601 1096 1665 1756 1842 2046 2057 
+	}
+	manpower=1000
+	buildings_max_level_factor=1.000
+	state_category = town	
+history={
+victory_points = { 152 1 }
+buildings = { 
+infrastructure = 2 }
+		owner = ASP
+		add_core_of = ASP
+	}		
+}

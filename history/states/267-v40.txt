@@ -1,0 +1,17 @@
+state={
+	id=267
+	name="STATE_267"
+	provinces={
+		300 304 879 1080 1554 1587 2435 2439 
+	}
+	manpower=1000
+	buildings_max_level_factor=1.000
+	state_category = town	
+history={
+victory_points = { 879 1 }
+buildings = { 
+infrastructure = 2 }
+		owner = KTN
+		add_core_of = KTN
+	}
+}

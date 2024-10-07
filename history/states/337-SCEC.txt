@@ -1,0 +1,19 @@
+state={
+	id=337
+	name="STATE_337"
+	provinces={
+		2 151 174 239 451 721 737 1064 1114 1215 1410 1599 1601 1884 1886 1888 1900 1925 
+	}
+history={
+victory_points = { 1215 1 }
+	buildings = { 
+		infrastructure = 2 
+	}
+	owner = DSN
+	add_core_of = DSN
+}
+	manpower=100
+	state_category = town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

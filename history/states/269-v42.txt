@@ -1,0 +1,17 @@
+state={
+	id=269
+	name="STATE_269"
+	provinces={
+		520 887 1242 1406 1511 2423 2428 
+	}
+	manpower=1000
+	buildings_max_level_factor=1.000
+	state_category = town	
+history={
+victory_points = { 1511 1 }
+buildings = { 
+infrastructure = 2 }
+		owner = SBN
+		add_core_of = SBN
+	}
+}

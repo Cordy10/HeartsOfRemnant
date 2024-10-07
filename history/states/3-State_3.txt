@@ -1,0 +1,22 @@
+state={
+	id=3
+	name="Northern Vale"
+	provinces={
+	2138 2131 2121 2126 1678 480 1531 2147 1838 422
+	}
+	manpower=26000
+    state_category = large_town	
+	buildings_max_level_factor=1.000
+	history={
+	victory_points = { 1678 1 }
+		owner = VAL
+		add_core_of = VAL
+	buildings = {
+	infrastructure = 2
+            industrial_complex = 2
+            1678 = {
+                naval_base = 1
+            }
+	}
+	}
+}

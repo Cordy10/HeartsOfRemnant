@@ -1,0 +1,17 @@
+state={
+	id=119
+	name="STATE_119"
+	provinces={
+		707 1094 2313 2347 
+	}
+	manpower=1000
+	buildings_max_level_factor=1.000
+	state_category = town	
+history={
+buildings = { 
+infrastructure = 2 }
+		owner = AAP
+		victory_points = { 2347 1 }
+		add_core_of = AAP
+	}
+}

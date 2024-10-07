@@ -1,0 +1,20 @@
+state={
+	id=77
+	name="STATE_77"
+	provinces={
+		364 578 1121 1947 
+	}
+	manpower=10000
+	buildings_max_level_factor=1.000
+	state_category = wasteland
+			history={
+victory_points = { 578 1 }
+		owner = ATL
+		
+		add_core_of = ATL
+        buildings = {
+infrastructure = 4
+
+	}
+	}
+}

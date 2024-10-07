@@ -1,0 +1,17 @@
+state={
+	id=220
+	name="STATE_220"
+	provinces={
+		372 969 1203 1423 1642 1757 
+	}
+	manpower=1000
+	buildings_max_level_factor=1.000
+	state_category = town	
+history={
+victory_points = { 1423 1 }
+buildings = { 
+infrastructure = 2 }
+		owner = SLN
+		add_core_of = SLN
+	}
+}

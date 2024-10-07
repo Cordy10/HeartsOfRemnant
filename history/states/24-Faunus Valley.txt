@@ -1,0 +1,15 @@
+state={
+	id=24
+	name="STATE_24"
+	provinces={
+		40 2505 2510 
+	}
+	manpower=1000
+	buildings_max_level_factor=1.000
+		state_category = rural
+history={
+victory_points = { 40 1 }
+		owner = GRM
+		add_core_of = GRM
+	}
+}

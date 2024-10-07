@@ -1,0 +1,17 @@
+state={
+	id=203
+	name="STATE_203"
+	provinces={
+		720 1039 
+	}
+	manpower=1000
+	buildings_max_level_factor=1.000
+	state_category = town	
+history={
+victory_points = { 720 1 }
+buildings = { 
+infrastructure = 2 }
+		owner = CRT
+		add_core_of = CRT
+	}
+}

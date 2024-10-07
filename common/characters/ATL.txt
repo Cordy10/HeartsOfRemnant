@@ -1,0 +1,16 @@
+characters={
+	ATL_leader={
+		name="King Of Mantle"
+		portraits={
+			civilian={
+				large= "GFX_ATL_leader"
+			}
+		}
+		country_leader={
+			ideology=imperial_rule_
+			expire = "3050.1.1.1"
+			traits = { }
+			id = -1
+		}
+	}
+}

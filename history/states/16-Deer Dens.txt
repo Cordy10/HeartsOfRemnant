@@ -1,0 +1,15 @@
+state={
+	id=16
+	name="Deers Den"
+	provinces={
+		362 463 919 1092 1537 2496 2499 2500 2506 2508 2513 1708
+	}
+	manpower=8000
+	buildings_max_level_factor=1.000
+	state_category = rural
+history={
+victory_points = { 919 1 }
+		owner = GRM
+		add_core_of = GRM
+	}
+}

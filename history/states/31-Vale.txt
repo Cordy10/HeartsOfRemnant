@@ -1,0 +1,18 @@
+
+state={
+	id=31
+	name="STATE_31"
+	provinces={
+		1353 1478 1557 1725 2179 2180 
+	}
+	manpower=1000
+	buildings_max_level_factor=1.000
+	state_category = town	
+history={
+victory_points = { 1557 1 }
+buildings = { 
+infrastructure = 2 }
+		owner = EUP
+		add_core_of = EUP
+		}
+}

@@ -1,0 +1,17 @@
+state={
+	id=228
+	name="STATE_228"
+	provinces={
+		608 2545 
+	}
+	manpower=1000
+	buildings_max_level_factor=1.000
+	state_category = town	
+history={
+victory_points = { 2545 1 }
+buildings = { 
+infrastructure = 2 }
+		owner = USP
+		add_core_of = USP
+	}
+}

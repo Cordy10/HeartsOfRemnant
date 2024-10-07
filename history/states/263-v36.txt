@@ -1,0 +1,17 @@
+state={
+	id=263
+	name="STATE_263"
+	provinces={
+		14 44 127 169 266 479 545 645 652 690 753 1373 1735 2413 2440 
+	}
+	manpower=1000
+	buildings_max_level_factor=1.000
+	state_category = town	
+history={
+victory_points = { 14 1 }
+buildings = { 
+infrastructure = 2 }
+		owner = SWL
+		add_core_of = SWL
+		}
+}

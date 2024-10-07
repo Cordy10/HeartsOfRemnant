@@ -1,0 +1,16 @@
+state={
+	id=13
+	name="Menagerie"
+	provinces={
+	450 2490 1473 2493 1324 2494 902
+	}
+	manpower=13000
+    state_category = town	
+	buildings_max_level_factor=1.000
+history={
+victory_points = { 2493 1 }
+		owner = GRM
+		add_core_of = GRM
+	}
+
+}

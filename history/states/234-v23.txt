@@ -1,0 +1,17 @@
+state={
+	id=234
+	name="STATE_234"
+	provinces={
+		198 291 681 1016 1057 1474 1513 1674 1831 2053 2066 
+	}
+	manpower=1000
+	buildings_max_level_factor=1.000
+	state_category = town	
+history={
+victory_points = { 198 1 }
+buildings = { 
+infrastructure = 2 }
+		owner = VEC
+		add_core_of = VEC
+	}		
+}

@@ -1,0 +1,19 @@
+state={
+	id=329
+	name="STATE_329"
+	provinces={
+		78 113 536 819 1572 1990 1994 1997 
+	}
+history={
+victory_points = { 1572 1 }
+	buildings = { 
+		infrastructure = 2 
+	}
+	owner = DNN
+	add_core_of = DNN
+}
+	manpower=100
+	state_category = town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

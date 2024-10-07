@@ -1,0 +1,21 @@
+state={
+	id=166
+	name="STATE_166"
+	provinces={
+		1008 1477 1743 
+	}
+	manpower=1000
+	buildings_max_level_factor=1.000
+	state_category = town	
+history={
+victory_points = { 1477 1 }
+buildings = { 
+infrastructure = 2 }
+		owner = ALN
+		add_core_of = ALN
+	}
+	history={
+		owner = ALN
+		add_core_of = ALN
+	}
+}

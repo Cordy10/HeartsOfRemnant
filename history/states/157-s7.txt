@@ -1,0 +1,17 @@
+state={
+	id=157
+	name="STATE_157"
+	provinces={
+		920 1024 1169 2432 
+	}
+	manpower=1000
+	buildings_max_level_factor=1.000
+	state_category = town	
+history={
+victory_points = { 1169 1 }
+buildings = { 
+infrastructure = 2 }
+		owner = ANN
+		add_core_of = ANN
+	}
+}

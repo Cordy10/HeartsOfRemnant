@@ -1,0 +1,18 @@
+state={
+	id=315
+	name="STATE_315"
+	provinces={
+		1431 1861 2536 
+	}
+history={
+victory_points = { 2536 1 }
+	buildings = { 
+		infrastructure = 2 
+	}
+	owner = DWL
+	add_core_of = DWL
+}
+	manpower=1000
+	buildings_max_level_factor=1.000
+	state_category = town	
+}

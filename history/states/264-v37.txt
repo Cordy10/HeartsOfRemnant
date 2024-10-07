@@ -1,0 +1,17 @@
+state={
+	id=264
+	name="STATE_264"
+	provinces={
+		275 921 975 1136 1258 1644 2406 2422 
+	}
+	manpower=1000
+	buildings_max_level_factor=1.000
+	state_category = town	
+history={
+victory_points = { 275 1 }
+buildings = { 
+infrastructure = 2 }
+		owner = SWL
+		add_core_of = SWL
+		}
+}

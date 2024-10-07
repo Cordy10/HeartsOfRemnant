@@ -1,0 +1,17 @@
+state={
+	id=250
+	name="STATE_250"
+	provinces={
+		161 375 771 826 949 2416 2430 
+	}
+	manpower=1000
+	buildings_max_level_factor=1.000
+	state_category = town	
+history={
+victory_points = { 949 1 }
+buildings = { 
+infrastructure = 2 }
+		owner = DDS
+		add_core_of = DDS
+	}
+}

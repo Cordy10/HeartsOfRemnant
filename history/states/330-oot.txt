@@ -1,0 +1,19 @@
+state={
+	id=330
+	name="STATE_330"
+	provinces={
+		141 321 348 504 908 1162 1462 1476 1508 1857 1996 
+	}
+history={
+victory_points = { 1476 1 }
+	buildings = { 
+		infrastructure = 2 
+	}
+	owner = DNN
+	add_core_of = DNN
+}
+	manpower=100
+	state_category = town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

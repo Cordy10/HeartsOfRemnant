@@ -1,0 +1,19 @@
+state={
+	id=82
+	name="STATE_82"
+	provinces={
+		43 116 235 589 867 935 1246 1321 1576 1620 1778 
+	}
+	manpower=1000
+	buildings_max_level_factor=1.000
+	state_category = town	
+
+	history={
+victory_points = { 43 1 }
+		owner = SNN
+		add_core_of = SNN
+buildings = { 
+infrastructure = 2
+ }
+	}
+}

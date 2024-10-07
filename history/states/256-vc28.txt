@@ -1,0 +1,17 @@
+state={
+	id=256
+	name="STATE_256"
+	provinces={
+		258 384 774 874 1261 1605 1675 1788 2442 
+	}
+	manpower=1000
+	buildings_max_level_factor=1.000
+	state_category = town	
+history={
+victory_points = { 258 1 }
+buildings = { 
+infrastructure = 2 }
+		owner = SBP
+		add_core_of = SBP
+	}
+}

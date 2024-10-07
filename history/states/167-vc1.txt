@@ -1,0 +1,17 @@
+state={
+	id=167
+	name="STATE_167"
+	provinces={
+		696 1676 1823 2489 
+	}
+	manpower=1000
+	buildings_max_level_factor=1.000
+	state_category = town	
+history={
+		owner = GRM
+	add_core_of = GRM
+victory_points = { 1676 1 }
+buildings = { 
+infrastructure = 2 }
+}
+}

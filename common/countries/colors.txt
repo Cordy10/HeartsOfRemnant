@@ -1,0 +1,208 @@
+
+GRM = {
+color = rgb { 71 29 30 }
+color_ui = rgb { 71 29 30 }
+}
+ATL = {
+color = rgb { 214 214 214 }
+color_ui = rgb { 214 214 214 }
+}
+VAL = {
+color = rgb { 128 255 128 }
+color_ui = rgb { 128 255 128 }
+}
+VAC = {
+color = rgb { 255 156 108 }
+color_ui = rgb { 255 156 108 }
+}
+MIS = {
+color = rgb { 0 155 230 }
+color_ui = rgb { 0 155 230 }
+}
+WTF = {
+color = rgb { 236 4 63 }
+color_ui = rgb { 236 4 63 }
+}
+MEN = {
+color = rgb { 187 187 0 }
+color_ui = rgb { 187 187 0 }
+}
+BRA = {
+color = rgb { 108 84 83 }
+color_ui = rgb { 108 84 83 }
+}
+CRI = {
+color = rgb { 128 0 255 }
+color_ui = rgb { 128 0 255 }
+}
+FAR = {
+color = rgb { 0 102 51 }
+color_ui = rgb { 0 102 51 }
+}
+FAL = {
+color = rgb { 102 0 0 }
+color_ui = rgb { 102 0 0 }
+}
+TLK = {
+color = rgb { 0 204 204 }
+color_ui = rgb { 0 204 204 }
+}
+
+
+MMH = {
+color = rgb { 13 5 5 }
+color_ui = rgb { 13 5 5 }
+}
+MMM = {
+color = rgb { 13 5 5 }
+color_ui = rgb { 13 5 5 }
+}
+MSP = {
+color = rgb { 13 5 5 }
+color_ui = rgb { 13 5 5 }
+}
+MBP = {
+color = rgb { 13 5 5 }
+color_ui = rgb { 13 5 5 }
+}
+SNN = {
+color = rgb { 13 5 5 }
+color_ui = rgb { 13 5 5 }
+}
+NSB = {
+color = rgb { 13 5 5 }
+color_ui = rgb { 13 5 5 }
+}
+SMH = {
+color = rgb { 13 5 5 }
+color_ui = rgb { 13 5 5 }
+}
+EUP = {
+color = rgb { 13 5 5 }
+color_ui = rgb { 13 5 5 }
+}
+DSN = {
+color = rgb { 13 5 5 }
+color_ui = rgb { 13 5 5 }
+}
+SBN = {
+color = rgb { 13 5 5 }
+color_ui = rgb { 13 5 5 }
+}
+MGC = {
+color = rgb { 13 5 5 }
+color_ui = rgb { 13 5 5 }
+}
+SWL = {
+color = rgb { 13 5 5 }
+color_ui = rgb { 13 5 5 }
+}
+UNP = {
+color = rgb { 13 5 5 }
+color_ui = rgb { 13 5 5 }
+}
+MSC = {
+color = rgb { 0 155 230 }
+color_ui = rgb { 0 155 230 }
+}
+MNC = {
+color = rgb { 0 155 230 }
+color_ui = rgb { 0 155 230 }
+}
+MCC = {
+color = rgb { 0 155 230 }
+color_ui = rgb { 0 155 230 }
+}
+VEC = {
+color = rgb { 128 255 128 }
+color_ui = rgb { 128 255 128 }
+}
+VSC = {
+color = rgb { 128 255 128 }
+color_ui = rgb { 128 255 128 }
+}
+
+DDS = {
+color = rgb { 13 5 5 }
+color_ui = rgb { 13 5 5 }
+}
+KTN = {
+color = rgb { 13 5 5 }
+color_ui = rgb { 13 5 5 }
+}
+SLN = {
+color = rgb { 13 5 5 }
+color_ui = rgb { 13 5 5 }
+}
+SRN = {
+color = rgb { 13 5 5 }
+color_ui = rgb { 13 5 5 }
+}
+USP = {
+color = rgb { 13 5 5 }
+color_ui = rgb { 13 5 5 }
+}
+SBP = {
+color = rgb { 13 5 5 }
+color_ui = rgb { 13 5 5 }
+}
+SSP = {
+color = rgb { 13 5 5 }
+color_ui = rgb { 13 5 5 }
+}
+NAB = {
+color = rgb { 13 5 5 }
+color_ui = rgb { 13 5 5 }
+}
+SAB = {
+color = rgb { 13 5 5 }
+color_ui = rgb { 13 5 5 }
+}
+AMH = {
+color = rgb { 13 5 5 }
+color_ui = rgb { 13 5 5 }
+}
+ASP = {
+color = rgb { 13 5 5 }
+color_ui = rgb { 13 5 5 }
+}
+AAP = {
+color = rgb { 13 5 5 }
+color_ui = rgb { 13 5 5 }
+}
+ALN = {
+color = rgb { 13 5 5 }
+color_ui = rgb { 13 5 5 }
+}
+ANN = {
+color = rgb { 13 5 5 }
+color_ui = rgb { 13 5 5 }
+}
+AUP = {
+color = rgb { 13 5 5 }
+color_ui = rgb { 13 5 5 }
+}
+CRT = {
+color = rgb { 108 84 83 }
+color_ui = rgb { 108 84 83 }
+}
+CST = {
+color = rgb { 108 84 83 }
+color_ui = rgb { 108 84 83 }
+}
+UUP = {
+color = rgb { 108 84 83 }
+color_ui = rgb { 108 84 83 }
+}
+DWL = {
+color = rgb { 13 5 5 }
+color_ui = rgb { 13 5 5 }
+}
+DBP = {
+color = rgb { 13 5 5 }
+color_ui = rgb { 13 5 5 }
+}
+DNN = {
+color = rgb { 13 5 5 }
+color_ui = rgb { 13 5 5 }
+}

@@ -1,0 +1,17 @@
+state={
+	id=35
+	name="STATE_35"
+	provinces={
+		252 662 1021 1493 2130 2136 2148 2150 2152 
+	}
+	manpower=1000
+	buildings_max_level_factor=1.000
+	state_category = town	
+history={
+	victory_points = { 252 1 }
+buildings = { 
+infrastructure = 2 }
+		owner = EUP
+		add_core_of = EUP
+		}
+}

@@ -1,0 +1,15 @@
+state={
+	id=20
+	name="STATE_20"
+	provinces={
+		213 718 989 1061 1173 1282 1361 
+	}
+	manpower=2
+	buildings_max_level_factor=1.000
+		state_category = wasteland
+history={
+victory_points = { 1361 1 }
+		owner = GRM
+		add_core_of = GRM
+	}
+}

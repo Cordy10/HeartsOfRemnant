@@ -1,0 +1,17 @@
+state={
+	id=278
+	name="STATE_278"
+	provinces={
+		210 428 468 599 820 1107 1538 1589 1688 2132 
+	}
+	manpower=1000
+	buildings_max_level_factor=1.000
+	state_category = town	
+history={
+victory_points = { 1538 1 }
+buildings = { 
+infrastructure = 2 }
+		owner = SMH
+		add_core_of = SMH
+	}
+}

@@ -1,0 +1,17 @@
+state={
+	id=192
+	name="STATE_192"
+	provinces={
+		549 694 843 1040 1859 1874 1880 1885 
+	}
+	manpower=1000
+	buildings_max_level_factor=1.000
+	state_category = town	
+history={
+victory_points = { 1885 1 }
+buildings = { 
+infrastructure = 2 }
+		owner = MMH
+		add_core_of = MMH
+		}
+}

@@ -1,0 +1,1271 @@
+﻿l_english:
+ GRM_democracy:0 "Republic of Salem's Faction"
+ GRM_democracy_DEF:0 "Republic of Salem's Faction"
+ GRM_democracy_ADJ:0 "Grimm"
+ GRM_tribalism:0 "People's Republic of Salem's Faction"
+ GRM_tribalism_DEF:0 "People's Republic of Salem's Faction"
+ GRM_tribalism_ADJ:0 "Grimm"
+ GRM_grimms_influence:0 "Dark Lands"
+ GRM_grimms_influence_DEF:0 "Dark Lands"
+ GRM_grimms_influence_ADJ:0 "Grimm"
+ GRM_monarchist:0 "Salem's Faction"
+ GRM_monarchist_DEF:0 "Salem's Faction"
+ GRM_monarchist_ADJ:0 "Grimm"
+ GRM_humans_first:0 "Salem's Faction"
+ GRM_humans_first_DEF:0 "Salem's Faction"
+ GRM_humans_first_ADJ:0 "Grimm"
+ GRM_faunus_first:0 "Salem's Faction"
+ GRM_faunus_first_DEF:0 "Salem's Faction"
+ GRM_faunus_first_ADJ:0 "Grimm"
+ ATL_monarchist:0 "Kingdom of AtlasASS"
+ ATL_monarchist_DEF:0 "Kingdom of AtlasASS"
+ ATL_monarchist_ADJ:0 "Atlas"
+ ATL_democracy:0 "People's Republic of Atlas"
+ ATL_democracy_DEF:0 "People's Republic of Atlas"
+ ATL_democracy_ADJ:0 "Atlas"
+ ATL_grimms_influence:0 "Atlas Empire"
+ ATL_grimms_influence_DEF:0 "Atlas Empire"
+ ATL_grimms_influence_ADJ:0 "Atlas"
+ ATL_tribalism:0 "Kingdom of Atlas"
+ ATL_tribalism_DEF:0 "Kingdom of Atlas"
+ ATL_tribalism_ADJ:0 "Atlas"
+ ATL_humans_first:0 "Atlas"
+ ATL_humans_first_DEF:0 "Atlas"
+ ATL_humans_first_ADJ:0 "Atlas"
+ ATL_faunus_first:0 "Atlas"
+ ATL_faunus_first_DEF:0 "Atlas"
+ ATL_faunus_first_ADJ:0 "Atlas"
+
+
+#VAL_tribalism_party:0 "Independent Party"
+#VAL_tribalism_party_long:0 "Independent People's Party"
+#VAL_humans_first_party:0 "Humanism "
+#VAL_humans_first_party_long:0 "Humans First Party"
+#VAL_monarchist_party:0 "King's Party"
+#VAL_monarchist_party_long:0 "The King's and Royal Order Party"
+#VAL_faunus_first_party:0 "Faunus Party"
+#VAL_faunus_first_party_long:0 "Faunus People's Party"
+#VAL_democracy_party:0 "Democrats "
+#VAL_democracy_party_long:0 "Democratic Party Of Vale"
+#VAL_grimms_influence_party:0 "GRIMM"
+#VAL_grimms_influence_party_long:0 "GRIMM"
+
+VAL_tribalism:5 "Vale"
+VAL_tribalism_DEF:5 "The Tribal Union Of Vale"
+VAL_tribalism_ADJ:5 "Valean"
+VAL_humans_first:5 "Human Empire Of Vale"
+VAL_humans_first_DEF:5 "Human Empire Of Vale"
+VAL_humans_first_ADJ:5 "Valean"
+VAL_monarchist:5 "Kingdom Of Vale"
+VAL_monarchist_DEF:5 "Kingdom Of Vale"
+VAL_monarchist_ADJ:5 "Valean"
+VAL_faunus_first:5 "Vale"
+VAL_faunus_first_DEF:5 "Faunus Kingdom Of Vale"
+VAL_faunus_first_ADJ:5 "Valean"
+VAL_democracy:5 "Vale"
+VAL_democracy_DEF:5 "Democratic Republic Of Vale"
+VAL_democracy_ADJ:5 "Valean"
+VAL_grimms_influence:5 "Vale"
+VAL_grimms_influence_DEF:5 "The Grimm Vale Territory "
+VAL_grimms_influence_ADJ:5 "Grimm"
+
+ VAC_democracy:0 "Kingdom of Vacuo"
+ VAC_democracy_DEF:0 "Kingdom of Vacuo"
+ VAC_democracy_ADJ:0 "Vacuo"
+ VAC_tribalism:0 "People's Republic of Kingdom of Vacuo"
+ VAC_tribalism_DEF:0 "People's Republic of Kingdom of Vacuo"
+ VAC_tribalism_ADJ:0 "Vacuo"
+ VAC_grimms_influence:0 "Vacuo Empire"
+ VAC_grimms_influence_DEF:0 "Vacuo Empire"
+ VAC_grimms_influence_ADJ:0 "Vacuo"
+ VAC_monarchist:0 "Kingdom of Vacuo"
+ VAC_monarchist_DEF:0 "Kingdom of Vacuo"
+ VAC_monarchist_ADJ:0 "Vacuo"
+ VAC_humans_first:0 "Kingdom of Vacuo"
+ VAC_humans_first_DEF:0 "Kingdom of Vacuo"
+ VAC_humans_first_ADJ:0 "Vacuo"
+ VAC_faunus_first:0 "Kingdom of Vacuo"
+ VAC_faunus_first_DEF:0 "Kingdom of Vacuo"
+ VAC_faunus_first_ADJ:0 "Vacuo"
+ MIS_democracy:0 "Republic of Kingdom of Mistral"
+ MIS_democracy_DEF:0 "Republic of Kingdom of Mistral"
+ MIS_democracy_ADJ:0 "Mistral"
+ MIS_tribalism:0 "People's Republic of Kingdom of Mistral"
+ MIS_tribalism_DEF:0 "People's Republic of Kingdom of Mistral"
+ MIS_tribalism_ADJ:0 "Mistral"
+ MIS_grimms_influence:0 "Mistral Empire"
+ MIS_grimms_influence_DEF:0 "Mistral Empire"
+ MIS_grimms_influence_ADJ:0 "Mistral"
+ MIS_monarchist:0 "Kingdom of Mistral"
+ MIS_monarchist_DEF:0 "Kingdom of Mistral"
+ MIS_monarchist_ADJ:0 "Mistral"
+ MIS_humans_first:0 "Kingdom of Mistral"
+ MIS_humans_first_DEF:0 "Kingdom of Mistral"
+ MIS_humans_first_ADJ:0 "Mistral"
+ MIS_faunus_first:0 "Kingdom of Mistral"
+ MIS_faunus_first_DEF:0 "Kingdom of Mistral"
+ MIS_faunus_first_ADJ:0 "Mistral"
+ WTF_democracy:0 "Republic of White Fang"
+ WTF_democracy_DEF:0 "Republic of White Fang"
+ WTF_democracy_ADJ:0 "White Fang"
+ WTF_tribalism:0 "People's Republic of White Fang"
+ WTF_tribalism_DEF:0 "People's Republic of White Fang"
+ WTF_tribalism_ADJ:0 "White Fang"
+ WTF_grimms_influence:0 "White Fang Empire"
+ WTF_grimms_influence_DEF:0 "White Fang Empire"
+ WTF_grimms_influence_ADJ:0 "White Fang"
+ WTF_monarchist:0 "White Fang"
+ WTF_monarchist_DEF:0 "White Fang"
+ WTF_monarchist_ADJ:0 "White Fang"
+ WTF_humans_first:0 "White Fang"
+ WTF_humans_first_DEF:0 "White Fang"
+ WTF_humans_first_ADJ:0 "White Fang"
+ WTF_faunus_first:0 "White Fang"
+ WTF_faunus_first_DEF:0 "White Fang"
+ WTF_faunus_first_ADJ:0 "White Fang"
+
+ MEN_democracy:0 "Menagerie"
+ MEN_democracy_DEF:0 "Menagerie"
+ MEN_democracy_ADJ:0 "Menagerie"
+ MEN_tribalism:0 "People's Republic of Menagerie"
+ MEN_tribalism_DEF:0 "People's Republic of Menagerie"
+ MEN_tribalism_ADJ:0 "Menagerie"
+ MEN_grimms_influence:0 "Menagerie Empire"
+ MEN_grimms_influence_DEF:0 "Menagerie Empire"
+ MEN_grimms_influence_ADJ:0 "Menagerie"
+ MEN_monarchist:0 "Menagerie"
+ MEN_monarchist_DEF:0 "Menagerie"
+ MEN_monarchist_ADJ:0 "Menagerie"
+ MEN_humans_first:0 "Menagerie"
+ MEN_humans_first_DEF:0 "Menagerie"
+ MEN_humans_first_ADJ:0 "Menagerie"
+ MEN_faunus_first:0 "Menagerie"
+ MEN_faunus_first_DEF:0 "Menagerie"
+ MEN_faunus_first_ADJ:0 "Menagerie"
+
+ BRA_democracy:0 "Republic of Branwen Tribe"
+ BRA_democracy_DEF:0 "Republic of Branwen Tribe"
+ BRA_democracy_ADJ:0 "Tribe"
+ BRA_tribalism:0 "Branwen Tribe"
+ BRA_tribalism_DEF:0 "Branwen Tribe"
+ BRA_tribalism_ADJ:0 "Tribe"
+ BRA_grimms_influence:0 "Tribe Empire"
+ BRA_grimms_influence_DEF:0 "Tribe Empire"
+ BRA_grimms_influence_ADJ:0 "Tribe"
+ BRA_monarchist:0 "Branwen Tribe"
+ BRA_monarchist_DEF:0 "Branwen Tribe"
+ BRA_monarchist_ADJ:0 "Tribe"
+ BRA_humans_first:0 "Branwen Tribe"
+ BRA_humans_first_DEF:0 "Branwen Tribe"
+ BRA_humans_first_ADJ:0 "Tribe"
+ BRA_faunus_first:0 "Branwen Tribe"
+ BRA_faunus_first_DEF:0 "Branwen Tribe"
+ BRA_faunus_first_ADJ:0 "Tribe"
+
+ CRI_democracy:0 "Republic of Crime Syndicate"
+ CRI_democracy_DEF:0 "Republic of Crime Syndicate"
+ CRI_democracy_ADJ:0 "Crime"
+ CRI_tribalism:0 "Crime Syndicate"
+ CRI_tribalism_DEF:0 "Crime Syndicate"
+ CRI_tribalism_ADJ:0 "Crime"
+ CRI_grimms_influence:0 "Crime Syndicate"
+ CRI_grimms_influence_DEF:0 "Crime Syndicate"
+ CRI_grimms_influence_ADJ:0 "Crime"
+ CRI_monarchist:0 "Crime Syndicate"
+ CRI_monarchist_DEF:0 "Crime Syndicate"
+ CRI_monarchist_ADJ:0 "Crime"
+ CRI_humans_first:0 "Crime Syndicate"
+ CRI_humans_first_DEF:0 "Crime Syndicate"
+ CRI_humans_first_ADJ:0 "Crime"
+ CRI_faunus_first:0 "Crime Syndicate"
+ CRI_faunus_first_DEF:0 "Crime Syndicate"
+ CRI_faunus_first_ADJ:0 "Crime"
+
+ 
+MMH_democracy:0 "Solitas Megoliath Hoard"
+MMH_democracy_DEF:0 "Solitas Megoliath Hoard"
+MMH_democracy_ADJ:0 "Solitas Megoliath Hoard"
+MMH_monarchist:0 "Solitas Megoliath Hoard"
+MMH_monarchist_DEF:0 "Solitas Megoliath Hoard"
+MMH_monarchist_ADJ:0 "Solitas Megoliath Hoard"
+MMH_grimms_influence:0 "Solitas Megoliath Hoard"
+MMH_grimms_influence_DEF:0 "Solitas Megoliath Hoard"
+MMH_grimms_influence_ADJ:0 "Solitas Megoliath Hoard"
+MMH_tribalism:0 "Solitas Megoliath Hoard"
+MMH_tribalism_DEF:0 "Solitas Megoliath Hoard"
+MMH_tribalism_ADJ:0 "Solitas Megoliath Hoard"
+MMH_humans_first:0 "Solitas Megoliath Hoard"
+MMH_humans_first_DEF:0 "Solitas Megoliath Hoard"
+MMH_humans_first_ADJ:0 "Solitas Megoliath Hoard"
+MMH_faunus_first:0 "Solitas Megoliath Hoard"
+MMH_faunus_first_DEF:0 "Solitas Megoliath Hoard"
+MMH_faunus_first_ADJ:0 "Solitas Megoliath Hoard"
+MMM_democracy:0 "Solitas Manticore Hoard"
+MMM_democracy_DEF:0 "Solitas Manticore Hoard"
+MMM_democracy_ADJ:0 "Solitas Manticore Hoard"
+MMM_monarchist:0 "Solitas Manticore Hoard"
+MMM_monarchist_DEF:0 "Solitas Manticore Hoard"
+MMM_monarchist_ADJ:0 "Solitas Manticore Hoard"
+MMM_grimms_influence:0 "Solitas Manticore Hoard"
+MMM_grimms_influence_DEF:0 "Solitas Manticore Hoard"
+MMM_grimms_influence_ADJ:0 "Solitas Manticore Hoard"
+MMM_tribalism:0 "Solitas Manticore Hoard"
+MMM_tribalism_DEF:0 "Solitas Manticore Hoard"
+MMM_tribalism_ADJ:0 "Solitas Manticore Hoard"
+MMM_humans_first:0 "Solitas Manticore Hoard"
+MMM_humans_first_DEF:0 "Solitas Manticore Hoard"
+MMM_humans_first_ADJ:0 "Solitas Manticore Hoard"
+MMM_faunus_first:0 "Solitas Manticore Hoard"
+MMM_faunus_first_DEF:0 "Solitas Manticore Hoard"
+MMM_faunus_first_ADJ:0 "Solitas Manticore Hoard"
+MSP_democracy:0 "Solitas Sabyrs Pack"
+MSP_democracy_DEF:0 "Solitas Sabyrs Pack"
+MSP_democracy_ADJ:0 "Solitas Sabyrs Pack"
+MSP_monarchist:0 "Solitas Sabyrs Pack"
+MSP_monarchist_DEF:0 "Solitas Sabyrs Pack"
+MSP_monarchist_ADJ:0 "Solitas Sabyrs Pack"
+MSP_grimms_influence:0 "Solitas Sabyrs Pack"
+MSP_grimms_influence_DEF:0 "Solitas Sabyrs Pack"
+MSP_grimms_influence_ADJ:0 "Solitas Sabyrs Pack"
+MSP_tribalism:0 "Solitas Sabyrs Pack"
+MSP_tribalism_DEF:0 "Solitas Sabyrs Pack"
+MSP_tribalism_ADJ:0 "Solitas Sabyrs Pack"
+MSP_humans_first:0 "Solitas Sabyrs Pack"
+MSP_humans_first_DEF:0 "Solitas Sabyrs Pack"
+MSP_humans_first_ADJ:0 "Solitas Sabyrs Pack"
+MSP_faunus_first:0 "Solitas Sabyrs Pack"
+MSP_faunus_first_DEF:0 "Solitas Sabyrs Pack"
+MSP_faunus_first_ADJ:0 "Solitas Sabyrs Pack"
+MBP_democracy:0 "Solitas Beowolves Pack"
+MBP_democracy_DEF:0 "Solitas Beowolves Pack"
+MBP_democracy_ADJ:0 "Solitas Beowolves Pack"
+MBP_monarchist:0 "Solitas Beowolves Pack"
+MBP_monarchist_DEF:0 "Solitas Beowolves Pack"
+MBP_monarchist_ADJ:0 "Solitas Beowolves Pack"
+MBP_grimms_influence:0 "Solitas Beowolves Pack"
+MBP_grimms_influence_DEF:0 "Solitas Beowolves Pack"
+MBP_grimms_influence_ADJ:0 "Solitas Beowolves Pack"
+MBP_tribalism:0 "Solitas Beowolves Pack"
+MBP_tribalism_DEF:0 "Solitas Beowolves Pack"
+MBP_tribalism_ADJ:0 "Solitas Beowolves Pack"
+MBP_humans_first:0 "Solitas Beowolves Pack"
+MBP_humans_first_DEF:0 "Solitas Beowolves Pack"
+MBP_humans_first_ADJ:0 "Solitas Beowolves Pack"
+MBP_faunus_first:0 "Solitas Beowolves Pack"
+MBP_faunus_first_DEF:0 "Solitas Beowolves Pack"
+MBP_faunus_first_ADJ:0 "Solitas Beowolves Pack"
+SNN_democracy:0 "Emerald Forest Nevermore Nest"
+SNN_democracy_DEF:0 "Emerald Forest Nevermore Nest"
+SNN_democracy_ADJ:0 "Emerald Forest Nevermore Nest"
+SNN_monarchist:0 "Emerald Forest Nevermore Nest"
+SNN_monarchist_DEF:0 "Emerald Forest Nevermore Nest"
+SNN_monarchist_ADJ:0 "Emerald Forest Nevermore Nest"
+SNN_grimms_influence:0 "Emerald Forest Nevermore Nest"
+SNN_grimms_influence_DEF:0 "Emerald Forest Nevermore Nest"
+SNN_grimms_influence_ADJ:0 "Emerald Forest Nevermore Nest"
+SNN_tribalism:0 "Emerald Forest Nevermore Nest"
+SNN_tribalism_DEF:0 "Emerald Forest Nevermore Nest"
+SNN_tribalism_ADJ:0 "Emerald Forest Nevermore Nest"
+SNN_humans_first:0 "Emerald Forest Nevermore Nest"
+SNN_humans_first_DEF:0 "Emerald Forest Nevermore Nest"
+SNN_humans_first_ADJ:0 "Emerald Forest Nevermore Nest"
+SNN_faunus_first:0 "Emerald Forest Nevermore Nest"
+SNN_faunus_first_DEF:0 "Emerald Forest Nevermore Nest"
+SNN_faunus_first_ADJ:0 "Emerald Forest Nevermore Nest"
+NSB_democracy:0 "Northern Sanus Beowolves Pack"
+NSB_democracy_DEF:0 "Northern Sanus Beowolves Pack"
+NSB_democracy_ADJ:0 "Northern Sanus Beowolves Pack"
+NSB_monarchist:0 "Northern Sanus Beowolves Pack"
+NSB_monarchist_DEF:0 "Northern Sanus Beowolves Pack"
+NSB_monarchist_ADJ:0 "Northern Sanus Beowolves Pack"
+NSB_grimms_influence:0 "Northern Sanus Beowolves Pack"
+NSB_grimms_influence_DEF:0 "Northern Sanus Beowolves Pack"
+NSB_grimms_influence_ADJ:0 "Northern Sanus Beowolves Pack"
+NSB_tribalism:0 "Northern Sanus Beowolves Pack"
+NSB_tribalism_DEF:0 "Northern Sanus Beowolves Pack"
+NSB_tribalism_ADJ:0 "Northern Sanus Beowolves Pack"
+NSB_humans_first:0 "Northern Sanus Beowolves Pack"
+NSB_humans_first_DEF:0 "Northern Sanus Beowolves Pack"
+NSB_humans_first_ADJ:0 "Northern Sanus Beowolves Pack"
+NSB_faunus_first:0 "Northern Sanus Beowolves Pack"
+NSB_faunus_first_DEF:0 "Northern Sanus Beowolves Pack"
+NSB_faunus_first_ADJ:0 "Northern Sanus Beowolves Pack"
+SMH_democracy:0 "Sanus Megoliath Hoard"
+SMH_democracy_DEF:0 "Sanus Megoliath Hoard"
+SMH_democracy_ADJ:0 "Sanus Megoliath Hoard"
+SMH_monarchist:0 "Sanus Megoliath Hoard"
+SMH_monarchist_DEF:0 "Sanus Megoliath Hoard"
+SMH_monarchist_ADJ:0 "Sanus Megoliath Hoard"
+SMH_grimms_influence:0 "Sanus Megoliath Hoard"
+SMH_grimms_influence_DEF:0 "Sanus Megoliath Hoard"
+SMH_grimms_influence_ADJ:0 "Sanus Megoliath Hoard"
+SMH_tribalism:0 "Sanus Megoliath Hoard"
+SMH_tribalism_DEF:0 "Sanus Megoliath Hoard"
+SMH_tribalism_ADJ:0 "Sanus Megoliath Hoard"
+SMH_humans_first:0 "Sanus Megoliath Hoard"
+SMH_humans_first_DEF:0 "Sanus Megoliath Hoard"
+SMH_humans_first_ADJ:0 "Sanus Megoliath Hoard"
+SMH_faunus_first:0 "Sanus Megoliath Hoard"
+SMH_faunus_first_DEF:0 "Sanus Megoliath Hoard"
+SMH_faunus_first_ADJ:0 "Sanus Megoliath Hoard"
+EUP_democracy:0 "Emerald Forest Ursa Pack"
+EUP_democracy_DEF:0 "Emerald Forest Ursa Pack"
+EUP_democracy_ADJ:0 "Emerald Forest Ursa Pack"
+EUP_monarchist:0 "Emerald Forest Ursa Pack"
+EUP_monarchist_DEF:0 "Emerald Forest Ursa Pack"
+EUP_monarchist_ADJ:0 "Emerald Forest Ursa Pack"
+EUP_grimms_influence:0 "Emerald Forest Ursa Pack"
+EUP_grimms_influence_DEF:0 "Emerald Forest Ursa Pack"
+EUP_grimms_influence_ADJ:0 "Emerald Forest Ursa Pack"
+EUP_tribalism:0 "Emerald Forest Ursa Pack"
+EUP_tribalism_DEF:0 "Emerald Forest Ursa Pack"
+EUP_tribalism_ADJ:0 "Emerald Forest Ursa Pack"
+EUP_humans_first:0 "Emerald Forest Ursa Pack"
+EUP_humans_first_DEF:0 "Emerald Forest Ursa Pack"
+EUP_humans_first_ADJ:0 "Emerald Forest Ursa Pack"
+EUP_faunus_first:0 "Emerald Forest Ursa Pack"
+EUP_faunus_first_DEF:0 "Emerald Forest Ursa Pack"
+EUP_faunus_first_ADJ:0 "Emerald Forest Ursa Pack"
+DSN_democracy:0 "Death Stalkers Nest"
+DSN_democracy_DEF:0 "Death Stalkers Nest"
+DSN_democracy_ADJ:0 "Death Stalkers Nest"
+DSN_monarchist:0 "Death Stalkers Nest"
+DSN_monarchist_DEF:0 "Death Stalkers Nest"
+DSN_monarchist_ADJ:0 "Death Stalkers Nest"
+DSN_grimms_influence:0 "Death Stalkers Nest"
+DSN_grimms_influence_DEF:0 "Death Stalkers Nest"
+DSN_grimms_influence_ADJ:0 "Death Stalkers Nest"
+DSN_tribalism:0 "Death Stalkers Nest"
+DSN_tribalism_DEF:0 "Death Stalkers Nest"
+DSN_tribalism_ADJ:0 "Death Stalkers Nest"
+DSN_humans_first:0 "Death Stalkers Nest"
+DSN_humans_first_DEF:0 "Death Stalkers Nest"
+DSN_humans_first_ADJ:0 "Death Stalkers Nest"
+DSN_faunus_first:0 "Death Stalkers Nest"
+DSN_faunus_first_DEF:0 "Death Stalkers Nest"
+DSN_faunus_first_ADJ:0 "Death Stalkers Nest"
+SBN_democracy:0 "Northern Sanus Boarbatusks Nest"
+SBN_democracy_DEF:0 "Northern Sanus Boarbatusks Nest"
+SBN_democracy_ADJ:0 "Northern Sanus Boarbatusks Nest"
+SBN_monarchist:0 "Northern Sanus Boarbatusks Nest"
+SBN_monarchist_DEF:0 "Northern Sanus Boarbatusks Nest"
+SBN_monarchist_ADJ:0 "Northern Sanus Boarbatusks Nest"
+SBN_grimms_influence:0 "Northern Sanus Boarbatusks Nest"
+SBN_grimms_influence_DEF:0 "Northern Sanus Boarbatusks Nest"
+SBN_grimms_influence_ADJ:0 "Northern Sanus Boarbatusks Nest"
+SBN_tribalism:0 "Northern Sanus Boarbatusks Nest"
+SBN_tribalism_DEF:0 "Northern Sanus Boarbatusks Nest"
+SBN_tribalism_ADJ:0 "Northern Sanus Boarbatusks Nest"
+SBN_humans_first:0 "Northern Sanus Boarbatusks Nest"
+SBN_humans_first_DEF:0 "Northern Sanus Boarbatusks Nest"
+SBN_humans_first_ADJ:0 "Northern Sanus Boarbatusks Nest"
+SBN_faunus_first:0 "Northern Sanus Boarbatusks Nest"
+SBN_faunus_first_DEF:0 "Northern Sanus Boarbatusks Nest"
+SBN_faunus_first_ADJ:0 "Northern Sanus Boarbatusks Nest"
+MGC_democracy:0 "Mountain Gleen Creep"
+MGC_democracy_DEF:0 "Mountain Gleen Creep"
+MGC_democracy_ADJ:0 "Mountain Gleen Creep"
+MGC_monarchist:0 "Mountain Gleen Creep"
+MGC_monarchist_DEF:0 "Mountain Gleen Creep"
+MGC_monarchist_ADJ:0 "Mountain Gleen Creep"
+MGC_grimms_influence:0 "Mountain Gleen Creep"
+MGC_grimms_influence_DEF:0 "Mountain Gleen Creep"
+MGC_grimms_influence_ADJ:0 "Mountain Gleen Creep"
+MGC_tribalism:0 "Mountain Gleen Creep"
+MGC_tribalism_DEF:0 "Mountain Gleen Creep"
+MGC_tribalism_ADJ:0 "Mountain Gleen Creep"
+MGC_humans_first:0 "Mountain Gleen Creep"
+MGC_humans_first_DEF:0 "Mountain Gleen Creep"
+MGC_humans_first_ADJ:0 "Mountain Gleen Creep"
+MGC_faunus_first:0 "Mountain Gleen Creep"
+MGC_faunus_first_DEF:0 "Mountain Gleen Creep"
+MGC_faunus_first_ADJ:0 "Mountain Gleen Creep"
+SWL_democracy:0 "Sanus Wyvern's Layer"
+SWL_democracy_DEF:0 "Sanus Wyvern's Layer"
+SWL_democracy_ADJ:0 "Sanus Wyvern's Layer"
+SWL_monarchist:0 "Sanus Wyvern's Layer"
+SWL_monarchist_DEF:0 "Sanus Wyvern's Layer"
+SWL_monarchist_ADJ:0 "Sanus Wyvern's Layer"
+SWL_grimms_influence:0 "Sanus Wyvern's Layer"
+SWL_grimms_influence_DEF:0 "Sanus Wyvern's Layer"
+SWL_grimms_influence_ADJ:0 "Sanus Wyvern's Layer"
+SWL_tribalism:0 "Sanus Wyvern's Layer"
+SWL_tribalism_DEF:0 "Sanus Wyvern's Layer"
+SWL_tribalism_ADJ:0 "Sanus Wyvern's Layer"
+SWL_humans_first:0 "Sanus Wyvern's Layer"
+SWL_humans_first_DEF:0 "Sanus Wyvern's Layer"
+SWL_humans_first_ADJ:0 "Sanus Wyvern's Layer"
+SWL_faunus_first:0 "Sanus Wyvern's Layer"
+SWL_faunus_first_DEF:0 "Sanus Wyvern's Layer"
+SWL_faunus_first_ADJ:0 "Sanus Wyvern's Layer"
+UNP_democracy:0 "Ursa Northern Pack"
+UNP_democracy_DEF:0 "Ursa Northern Pack"
+UNP_democracy_ADJ:0 "Ursa Northern Pack"
+UNP_monarchist:0 "Ursa Northern Pack"
+UNP_monarchist_DEF:0 "Ursa Northern Pack"
+UNP_monarchist_ADJ:0 "Ursa Northern Pack"
+UNP_grimms_influence:0 "Ursa Northern Pack"
+UNP_grimms_influence_DEF:0 "Ursa Northern Pack"
+UNP_grimms_influence_ADJ:0 "Ursa Northern Pack"
+UNP_tribalism:0 "Ursa Northern Pack"
+UNP_tribalism_DEF:0 "Ursa Northern Pack"
+UNP_tribalism_ADJ:0 "Ursa Northern Pack"
+UNP_humans_first:0 "Ursa Northern Pack"
+UNP_humans_first_DEF:0 "Ursa Northern Pack"
+UNP_humans_first_ADJ:0 "Ursa Northern Pack"
+UNP_faunus_first:0 "Ursa Northern Pack"
+UNP_faunus_first_DEF:0 "Ursa Northern Pack"
+UNP_faunus_first_ADJ:0 "Ursa Northern Pack"
+DDS_democracy:0 "Desert Death Stalkers Nest"
+DDS_democracy_DEF:0 "Desert Death Stalkers Nest"
+DDS_democracy_ADJ:0 "Desert Death Stalkers Nest"
+DDS_monarchist:0 "Desert Death Stalkers Nest"
+DDS_monarchist_DEF:0 "Desert Death Stalkers Nest"
+DDS_monarchist_ADJ:0 "Desert Death Stalkers Nest"
+DDS_grimms_influence:0 "Desert Death Stalkers Nest"
+DDS_grimms_influence_DEF:0 "Desert Death Stalkers Nest"
+DDS_grimms_influence_ADJ:0 "Desert Death Stalkers Nest"
+DDS_tribalism:0 "Desert Death Stalkers Nest"
+DDS_tribalism_DEF:0 "Desert Death Stalkers Nest"
+DDS_tribalism_ADJ:0 "Desert Death Stalkers Nest"
+DDS_humans_first:0 "Desert Death Stalkers Nest"
+DDS_humans_first_DEF:0 "Desert Death Stalkers Nest"
+DDS_humans_first_ADJ:0 "Desert Death Stalkers Nest"
+DDS_faunus_first:0 "Desert Death Stalkers Nest"
+DDS_faunus_first_DEF:0 "Desert Death Stalkers Nest"
+DDS_faunus_first_ADJ:0 "Desert Death Stalkers Nest"
+KTN_democracy:0 "King Taijitu Nest"
+KTN_democracy_DEF:0 "King Taijitu Nest"
+KTN_democracy_ADJ:0 "King Taijitu Nest"
+KTN_monarchist:0 "King Taijitu Nest"
+KTN_monarchist_DEF:0 "King Taijitu Nest"
+KTN_monarchist_ADJ:0 "King Taijitu Nest"
+KTN_grimms_influence:0 "King Taijitu Nest"
+KTN_grimms_influence_DEF:0 "King Taijitu Nest"
+KTN_grimms_influence_ADJ:0 "King Taijitu Nest"
+KTN_tribalism:0 "King Taijitu Nest"
+KTN_tribalism_DEF:0 "King Taijitu Nest"
+KTN_tribalism_ADJ:0 "King Taijitu Nest"
+KTN_humans_first:0 "King Taijitu Nest"
+KTN_humans_first_DEF:0 "King Taijitu Nest"
+KTN_humans_first_ADJ:0 "King Taijitu Nest"
+KTN_faunus_first:0 "King Taijitu Nest"
+KTN_faunus_first_DEF:0 "King Taijitu Nest"
+KTN_faunus_first_ADJ:0 "King Taijitu Nest"
+SLN_democracy:0 "Sanus Lancer Nest"
+SLN_democracy_DEF:0 "Sanus Lancer Nest"
+SLN_democracy_ADJ:0 "Sanus Lancer Nest"
+SLN_monarchist:0 "Sanus Lancer Nest"
+SLN_monarchist_DEF:0 "Sanus Lancer Nest"
+SLN_monarchist_ADJ:0 "Sanus Lancer Nest"
+SLN_grimms_influence:0 "Sanus Lancer Nest"
+SLN_grimms_influence_DEF:0 "Sanus Lancer Nest"
+SLN_grimms_influence_ADJ:0 "Sanus Lancer Nest"
+SLN_tribalism:0 "Sanus Lancer Nest"
+SLN_tribalism_DEF:0 "Sanus Lancer Nest"
+SLN_tribalism_ADJ:0 "Sanus Lancer Nest"
+SLN_humans_first:0 "Sanus Lancer Nest"
+SLN_humans_first_DEF:0 "Sanus Lancer Nest"
+SLN_humans_first_ADJ:0 "Sanus Lancer Nest"
+SLN_faunus_first:0 "Sanus Lancer Nest"
+SLN_faunus_first_DEF:0 "Sanus Lancer Nest"
+SLN_faunus_first_ADJ:0 "Sanus Lancer Nest"
+SRN_democracy:0 "Raveger Nest"
+SRN_democracy_DEF:0 "Raveger Nest"
+SRN_democracy_ADJ:0 "Raveger Nest"
+SRN_monarchist:0 "Raveger Nest"
+SRN_monarchist_DEF:0 "Raveger Nest"
+SRN_monarchist_ADJ:0 "Raveger Nest"
+SRN_grimms_influence:0 "Raveger Nest"
+SRN_grimms_influence_DEF:0 "Raveger Nest"
+SRN_grimms_influence_ADJ:0 "Raveger Nest"
+SRN_tribalism:0 "Raveger Nest"
+SRN_tribalism_DEF:0 "Raveger Nest"
+SRN_tribalism_ADJ:0 "Raveger Nest"
+SRN_humans_first:0 "Raveger Nest"
+SRN_humans_first_DEF:0 "Raveger Nest"
+SRN_humans_first_ADJ:0 "Raveger Nest"
+SRN_faunus_first:0 "Raveger Nest"
+SRN_faunus_first_DEF:0 "Raveger Nest"
+SRN_faunus_first_ADJ:0 "Raveger Nest"
+USP_democracy:0 "Ursa Southern Pack"
+USP_democracy_DEF:0 "Ursa Southern Pack"
+USP_democracy_ADJ:0 "Ursa Southern Pack"
+USP_monarchist:0 "Ursa Southern Pack"
+USP_monarchist_DEF:0 "Ursa Southern Pack"
+USP_monarchist_ADJ:0 "Ursa Southern Pack"
+USP_grimms_influence:0 "Ursa Southern Pack"
+USP_grimms_influence_DEF:0 "Ursa Southern Pack"
+USP_grimms_influence_ADJ:0 "Ursa Southern Pack"
+USP_tribalism:0 "Ursa Southern Pack"
+USP_tribalism_DEF:0 "Ursa Southern Pack"
+USP_tribalism_ADJ:0 "Ursa Southern Pack"
+USP_humans_first:0 "Ursa Southern Pack"
+USP_humans_first_DEF:0 "Ursa Southern Pack"
+USP_humans_first_ADJ:0 "Ursa Southern Pack"
+USP_faunus_first:0 "Ursa Southern Pack"
+USP_faunus_first_DEF:0 "Ursa Southern Pack"
+USP_faunus_first_ADJ:0 "Ursa Southern Pack"
+SBP_democracy:0 "Southern Sanus Beowolves Pack"
+SBP_democracy_DEF:0 "Southern Sanus Beowolves Pack"
+SBP_democracy_ADJ:0 "Southern Sanus Beowolves Pack"
+SBP_monarchist:0 "Southern Sanus Beowolves Pack"
+SBP_monarchist_DEF:0 "Southern Sanus Beowolves Pack"
+SBP_monarchist_ADJ:0 "Southern Sanus Beowolves Pack"
+SBP_grimms_influence:0 "Southern Sanus Beowolves Pack"
+SBP_grimms_influence_DEF:0 "Southern Sanus Beowolves Pack"
+SBP_grimms_influence_ADJ:0 "Southern Sanus Beowolves Pack"
+SBP_tribalism:0 "Southern Sanus Beowolves Pack"
+SBP_tribalism_DEF:0 "Southern Sanus Beowolves Pack"
+SBP_tribalism_ADJ:0 "Southern Sanus Beowolves Pack"
+SBP_humans_first:0 "Southern Sanus Beowolves Pack"
+SBP_humans_first_DEF:0 "Southern Sanus Beowolves Pack"
+SBP_humans_first_ADJ:0 "Southern Sanus Beowolves Pack"
+SBP_faunus_first:0 "Southern Sanus Beowolves Pack"
+SBP_faunus_first_DEF:0 "Southern Sanus Beowolves Pack"
+SBP_faunus_first_ADJ:0 "Southern Sanus Beowolves Pack"
+SSP_democracy:0 "Anima Sabyr Pack"
+SSP_democracy_DEF:0 "Anima Sabyr Pack"
+SSP_democracy_ADJ:0 "Anima Sabyr Pack"
+SSP_monarchist:0 "Anima Sabyr Pack"
+SSP_monarchist_DEF:0 "Anima Sabyr Pack"
+SSP_monarchist_ADJ:0 "Anima Sabyr Pack"
+SSP_grimms_influence:0 "Anima Sabyr Pack"
+SSP_grimms_influence_DEF:0 "Anima Sabyr Pack"
+SSP_grimms_influence_ADJ:0 "Anima Sabyr Pack"
+SSP_tribalism:0 "Anima Sabyr Pack"
+SSP_tribalism_DEF:0 "Anima Sabyr Pack"
+SSP_tribalism_ADJ:0 "Anima Sabyr Pack"
+SSP_humans_first:0 "Anima Sabyr Pack"
+SSP_humans_first_DEF:0 "Anima Sabyr Pack"
+SSP_humans_first_ADJ:0 "Anima Sabyr Pack"
+SSP_faunus_first:0 "Anima Sabyr Pack"
+SSP_faunus_first_DEF:0 "Anima Sabyr Pack"
+SSP_faunus_first_ADJ:0 "Anima Sabyr Pack"
+NAB_democracy:0 "Northern Anima Beowolves Pack"
+NAB_democracy_DEF:0 "Northern Anima Beowolves Pack"
+NAB_democracy_ADJ:0 "Northern Anima Beowolves Pack"
+NAB_monarchist:0 "Northern Anima Beowolves Pack"
+NAB_monarchist_DEF:0 "Northern Anima Beowolves Pack"
+NAB_monarchist_ADJ:0 "Northern Anima Beowolves Pack"
+NAB_grimms_influence:0 "Northern Anima Beowolves Pack"
+NAB_grimms_influence_DEF:0 "Northern Anima Beowolves Pack"
+NAB_grimms_influence_ADJ:0 "Northern Anima Beowolves Pack"
+NAB_tribalism:0 "Northern Anima Beowolves Pack"
+NAB_tribalism_DEF:0 "Northern Anima Beowolves Pack"
+NAB_tribalism_ADJ:0 "Northern Anima Beowolves Pack"
+NAB_humans_first:0 "Northern Anima Beowolves Pack"
+NAB_humans_first_DEF:0 "Northern Anima Beowolves Pack"
+NAB_humans_first_ADJ:0 "Northern Anima Beowolves Pack"
+NAB_faunus_first:0 "Northern Anima Beowolves Pack"
+NAB_faunus_first_DEF:0 "Northern Anima Beowolves Pack"
+NAB_faunus_first_ADJ:0 "Northern Anima Beowolves Pack"
+SAB_democracy:0 "Southern Anima Beowolves Pack"
+SAB_democracy_DEF:0 "Southern Anima Beowolves Pack"
+SAB_democracy_ADJ:0 "Southern Anima Beowolves Pack"
+SAB_monarchist:0 "Southern Anima Beowolves Pack"
+SAB_monarchist_DEF:0 "Southern Anima Beowolves Pack"
+SAB_monarchist_ADJ:0 "Southern Anima Beowolves Pack"
+SAB_grimms_influence:0 "Southern Anima Beowolves Pack"
+SAB_grimms_influence_DEF:0 "Southern Anima Beowolves Pack"
+SAB_grimms_influence_ADJ:0 "Southern Anima Beowolves Pack"
+SAB_tribalism:0 "Southern Anima Beowolves Pack"
+SAB_tribalism_DEF:0 "Southern Anima Beowolves Pack"
+SAB_tribalism_ADJ:0 "Southern Anima Beowolves Pack"
+SAB_humans_first:0 "Southern Anima Beowolves Pack"
+SAB_humans_first_DEF:0 "Southern Anima Beowolves Pack"
+SAB_humans_first_ADJ:0 "Southern Anima Beowolves Pack"
+SAB_faunus_first:0 "Southern Anima Beowolves Pack"
+SAB_faunus_first_DEF:0 "Southern Anima Beowolves Pack"
+SAB_faunus_first_ADJ:0 "Southern Anima Beowolves Pack"
+AMH_democracy:0 "Anima Manticore Hoard"
+AMH_democracy_DEF:0 "Anima Manticore Hoard"
+AMH_democracy_ADJ:0 "Anima Manticore Hoard"
+AMH_monarchist:0 "Anima Manticore Hoard"
+AMH_monarchist_DEF:0 "Anima Manticore Hoard"
+AMH_monarchist_ADJ:0 "Anima Manticore Hoard"
+AMH_grimms_influence:0 "Anima Manticore Hoard"
+AMH_grimms_influence_DEF:0 "Anima Manticore Hoard"
+AMH_grimms_influence_ADJ:0 "Anima Manticore Hoard"
+AMH_tribalism:0 "Anima Manticore Hoard"
+AMH_tribalism_DEF:0 "Anima Manticore Hoard"
+AMH_tribalism_ADJ:0 "Anima Manticore Hoard"
+AMH_humans_first:0 "Anima Manticore Hoard"
+AMH_humans_first_DEF:0 "Anima Manticore Hoard"
+AMH_humans_first_ADJ:0 "Anima Manticore Hoard"
+AMH_faunus_first:0 "Anima Manticore Hoard"
+AMH_faunus_first_DEF:0 "Anima Manticore Hoard"
+AMH_faunus_first_ADJ:0 "Anima Manticore Hoard"
+ASP_democracy:0 "Anima Sphinx Pack"
+ASP_democracy_DEF:0 "Anima Sphinx Pack"
+ASP_democracy_ADJ:0 "Anima Sphinx Pack"
+ASP_monarchist:0 "Anima Sphinx Pack"
+ASP_monarchist_DEF:0 "Anima Sphinx Pack"
+ASP_monarchist_ADJ:0 "Anima Sphinx Pack"
+ASP_grimms_influence:0 "Anima Sphinx Pack"
+ASP_grimms_influence_DEF:0 "Anima Sphinx Pack"
+ASP_grimms_influence_ADJ:0 "Anima Sphinx Pack"
+ASP_tribalism:0 "Anima Sphinx Pack"
+ASP_tribalism_DEF:0 "Anima Sphinx Pack"
+ASP_tribalism_ADJ:0 "Anima Sphinx Pack"
+ASP_humans_first:0 "Anima Sphinx Pack"
+ASP_humans_first_DEF:0 "Anima Sphinx Pack"
+ASP_humans_first_ADJ:0 "Anima Sphinx Pack"
+ASP_faunus_first:0 "Anima Sphinx Pack"
+ASP_faunus_first_DEF:0 "Anima Sphinx Pack"
+ASP_faunus_first_ADJ:0 "Anima Sphinx Pack"
+AAP_democracy:0 "Anima Apathy Pack"
+AAP_democracy_DEF:0 "Anima Apathy Pack"
+AAP_democracy_ADJ:0 "Anima Apathy Pack"
+AAP_monarchist:0 "Anima Apathy Pack"
+AAP_monarchist_DEF:0 "Anima Apathy Pack"
+AAP_monarchist_ADJ:0 "Anima Apathy Pack"
+AAP_grimms_influence:0 "Anima Apathy Pack"
+AAP_grimms_influence_DEF:0 "Anima Apathy Pack"
+AAP_grimms_influence_ADJ:0 "Anima Apathy Pack"
+AAP_tribalism:0 "Anima Apathy Pack"
+AAP_tribalism_DEF:0 "Anima Apathy Pack"
+AAP_tribalism_ADJ:0 "Anima Apathy Pack"
+AAP_humans_first:0 "Anima Apathy Pack"
+AAP_humans_first_DEF:0 "Anima Apathy Pack"
+AAP_humans_first_ADJ:0 "Anima Apathy Pack"
+AAP_faunus_first:0 "Anima Apathy Pack"
+AAP_faunus_first_DEF:0 "Anima Apathy Pack"
+AAP_faunus_first_ADJ:0 "Anima Apathy Pack"
+ALN_democracy:0 "Anima Lancers Nest"
+ALN_democracy_DEF:0 "Anima Lancers Nest"
+ALN_democracy_ADJ:0 "Anima Lancers Nest"
+ALN_monarchist:0 "Anima Lancers Nest"
+ALN_monarchist_DEF:0 "Anima Lancers Nest"
+ALN_monarchist_ADJ:0 "Anima Lancers Nest"
+ALN_grimms_influence:0 "Anima Lancers Nest"
+ALN_grimms_influence_DEF:0 "Anima Lancers Nest"
+ALN_grimms_influence_ADJ:0 "Anima Lancers Nest"
+ALN_tribalism:0 "Anima Lancers Nest"
+ALN_tribalism_DEF:0 "Anima Lancers Nest"
+ALN_tribalism_ADJ:0 "Anima Lancers Nest"
+ALN_humans_first:0 "Anima Lancers Nest"
+ALN_humans_first_DEF:0 "Anima Lancers Nest"
+ALN_humans_first_ADJ:0 "Anima Lancers Nest"
+ALN_faunus_first:0 "Anima Lancers Nest"
+ALN_faunus_first_DEF:0 "Anima Lancers Nest"
+ALN_faunus_first_ADJ:0 "Anima Lancers Nest"
+ANN_democracy:0 "Anima Nevermores Nest"
+ANN_democracy_DEF:0 "Anima Nevermores Nest"
+ANN_democracy_ADJ:0 "Anima Nevermores Nest"
+ANN_monarchist:0 "Anima Nevermores Nest"
+ANN_monarchist_DEF:0 "Anima Nevermores Nest"
+ANN_monarchist_ADJ:0 "Anima Nevermores Nest"
+ANN_grimms_influence:0 "Anima Nevermores Nest"
+ANN_grimms_influence_DEF:0 "Anima Nevermores Nest"
+ANN_grimms_influence_ADJ:0 "Anima Nevermores Nest"
+ANN_tribalism:0 "Anima Nevermores Nest"
+ANN_tribalism_DEF:0 "Anima Nevermores Nest"
+ANN_tribalism_ADJ:0 "Anima Nevermores Nest"
+ANN_humans_first:0 "Anima Nevermores Nest"
+ANN_humans_first_DEF:0 "Anima Nevermores Nest"
+ANN_humans_first_ADJ:0 "Anima Nevermores Nest"
+ANN_faunus_first:0 "Anima Nevermores Nest"
+ANN_faunus_first_DEF:0 "Anima Nevermores Nest"
+ANN_faunus_first_ADJ:0 "Anima Nevermores Nest"
+AUP_democracy:0 "Anima Ursai Pack"
+AUP_democracy_DEF:0 "Anima Ursai Pack"
+AUP_democracy_ADJ:0 "Anima Ursai Pack"
+AUP_monarchist:0 "Anima Ursai Pack"
+AUP_monarchist_DEF:0 "Anima Ursai Pack"
+AUP_monarchist_ADJ:0 "Anima Ursai Pack"
+AUP_grimms_influence:0 "Anima Ursai Pack"
+AUP_grimms_influence_DEF:0 "Anima Ursai Pack"
+AUP_grimms_influence_ADJ:0 "Anima Ursai Pack"
+AUP_tribalism:0 "Anima Ursai Pack"
+AUP_tribalism_DEF:0 "Anima Ursai Pack"
+AUP_tribalism_ADJ:0 "Anima Ursai Pack"
+AUP_humans_first:0 "Anima Ursai Pack"
+AUP_humans_first_DEF:0 "Anima Ursai Pack"
+AUP_humans_first_ADJ:0 "Anima Ursai Pack"
+AUP_faunus_first:0 "Anima Ursai Pack"
+AUP_faunus_first_DEF:0 "Anima Ursai Pack"
+AUP_faunus_first_ADJ:0 "Anima Ursai Pack"
+MSC_democracy:0 "Mistral Sanus Colony"
+MSC_democracy_DEF:0 "Mistral Sanus Colony"
+MSC_democracy_ADJ:0 "Mistral Sanus Colony"
+MSC_monarchist:0 "Mistral Sanus Colony"
+MSC_monarchist_DEF:0 "Mistral Sanus Colony"
+MSC_monarchist_ADJ:0 "Mistral Sanus Colony"
+MSC_grimms_influence:0 "Mistral Sanus Colony"
+MSC_grimms_influence_DEF:0 "Mistral Sanus Colony"
+MSC_grimms_influence_ADJ:0 "Mistral Sanus Colony"
+MSC_tribalism:0 "Mistral Sanus Colony"
+MSC_tribalism_DEF:0 "Mistral Sanus Colony"
+MSC_tribalism_ADJ:0 "Mistral Sanus Colony"
+MSC_humans_first:0 "Mistral Sanus Colony"
+MSC_humans_first_DEF:0 "Mistral Sanus Colony"
+MSC_humans_first_ADJ:0 "Mistral Sanus Colony"
+MSC_faunus_first:0 "Mistral Sanus Colony"
+MSC_faunus_first_DEF:0 "Mistral Sanus Colony"
+MSC_faunus_first_ADJ:0 "Mistral Sanus Colony"
+VEC_democracy:0 "Vale Eastern Colony"
+VEC_democracy_DEF:0 "Vale Eastern Colony"
+VEC_democracy_ADJ:0 "Vale Eastern Colony"
+VEC_monarchist:0 "Vale Eastern Colony"
+VEC_monarchist_DEF:0 "Vale Eastern Colony"
+VEC_monarchist_ADJ:0 "Vale Eastern Colony"
+VEC_grimms_influence:0 "Vale Eastern Colony"
+VEC_grimms_influence_DEF:0 "Vale Eastern Colony"
+VEC_grimms_influence_ADJ:0 "Vale Eastern Colony"
+VEC_tribalism:0 "Vale Eastern Colony"
+VEC_tribalism_DEF:0 "Vale Eastern Colony"
+VEC_tribalism_ADJ:0 "Vale Eastern Colony"
+VEC_humans_first:0 "Vale Eastern Colony"
+VEC_humans_first_DEF:0 "Vale Eastern Colony"
+VEC_humans_first_ADJ:0 "Vale Eastern Colony"
+VEC_faunus_first:0 "Vale Eastern Colony"
+VEC_faunus_first_DEF:0 "Vale Eastern Colony"
+VEC_faunus_first_ADJ:0 "Vale Eastern Colony"
+VSC_democracy:0 "Vale Southern Colony"
+VSC_democracy_DEF:0 "Vale Southern Colony"
+VSC_democracy_ADJ:0 "Vale Southern Colony"
+VSC_monarchist:0 "Vale Southern Colony"
+VSC_monarchist_DEF:0 "Vale Southern Colony"
+VSC_monarchist_ADJ:0 "Vale Southern Colony"
+VSC_grimms_influence:0 "Vale Southern Colony"
+VSC_grimms_influence_DEF:0 "Vale Southern Colony"
+VSC_grimms_influence_ADJ:0 "Vale Southern Colony"
+VSC_tribalism:0 "Vale Southern Colony"
+VSC_tribalism_DEF:0 "Vale Southern Colony"
+VSC_tribalism_ADJ:0 "Vale Southern Colony"
+VSC_humans_first:0 "Vale Southern Colony"
+VSC_humans_first_DEF:0 "Vale Southern Colony"
+VSC_humans_first_ADJ:0 "Vale Southern Colony"
+VSC_faunus_first:0 "Vale Southern Colony"
+VSC_faunus_first_DEF:0 "Vale Southern Colony"
+VSC_faunus_first_ADJ:0 "Vale Southern Colony"
+MNC_democracy:0 "Mistral Northern Colony"
+MNC_democracy_DEF:0 "Mistral Northern Colony"
+MNC_democracy_ADJ:0 "Mistral Northern Colony"
+MNC_monarchist:0 "Mistral Northern Colony"
+MNC_monarchist_DEF:0 "Mistral Northern Colony"
+MNC_monarchist_ADJ:0 "Mistral Northern Colony"
+MNC_grimms_influence:0 "Mistral Northern Colony"
+MNC_grimms_influence_DEF:0 "Mistral Northern Colony"
+MNC_grimms_influence_ADJ:0 "Mistral Northern Colony"
+MNC_tribalism:0 "Mistral Northern Colony"
+MNC_tribalism_DEF:0 "Mistral Northern Colony"
+MNC_tribalism_ADJ:0 "Mistral Northern Colony"
+MNC_humans_first:0 "Mistral Northern Colony"
+MNC_humans_first_DEF:0 "Mistral Northern Colony"
+MNC_humans_first_ADJ:0 "Mistral Northern Colony"
+MNC_faunus_first:0 "Mistral Northern Colony"
+MNC_faunus_first_DEF:0 "Mistral Northern Colony"
+MNC_faunus_first_ADJ:0 "Mistral Northern Colony"
+MCC_democracy:0 "Mistral Southern Colony"
+MCC_democracy_DEF:0 "Mistral Southern Colony"
+MCC_democracy_ADJ:0 "Mistral Southern Colony"
+MCC_monarchist:0 "Mistral Southern Colony"
+MCC_monarchist_DEF:0 "Mistral Southern Colony"
+MCC_monarchist_ADJ:0 "Mistral Southern Colony"
+MCC_grimms_influence:0 "Mistral Southern Colony"
+MCC_grimms_influence_DEF:0 "Mistral Southern Colony"
+MCC_grimms_influence_ADJ:0 "Mistral Southern Colony"
+MCC_tribalism:0 "Mistral Southern Colony"
+MCC_tribalism_DEF:0 "Mistral Southern Colony"
+MCC_tribalism_ADJ:0 "Mistral Southern Colony"
+MCC_humans_first:0 "Mistral Southern Colony"
+MCC_humans_first_DEF:0 "Mistral Southern Colony"
+MCC_humans_first_ADJ:0 "Mistral Southern Colony"
+MCC_faunus_first:0 "Mistral Southern Colony"
+MCC_faunus_first_DEF:0 "Mistral Southern Colony"
+MCC_faunus_first_ADJ:0 "Mistral Southern Colony"
+_democracy:0 ""
+_democracy_DEF:0 ""
+_democracy_ADJ:0 ""
+_monarchist:0 ""
+_monarchist_DEF:0 ""
+_monarchist_ADJ:0 ""
+_grimms_influence:0 ""
+_grimms_influence_DEF:0 ""
+_grimms_influence_ADJ:0 ""
+_tribalism:0 ""
+_tribalism_DEF:0 ""
+_tribalism_ADJ:0 ""
+_humans_first:0 ""
+_humans_first_DEF:0 ""
+_humans_first_ADJ:0 ""
+_faunus_first:0 ""
+_faunus_first_DEF:0 ""
+_faunus_first_ADJ:0 ""
+CRT_democracy:0 "Clan Ren Tribe"
+CRT_democracy_DEF:0 "Clan Ren Tribe"
+CRT_democracy_ADJ:0 "Clan Ren Tribe"
+CRT_monarchist:0 "Clan Ren Tribe"
+CRT_monarchist_DEF:0 "Clan Ren Tribe"
+CRT_monarchist_ADJ:0 "Clan Ren Tribe"
+CRT_grimms_influence:0 "Clan Ren Tribe"
+CRT_grimms_influence_DEF:0 "Clan Ren Tribe"
+CRT_grimms_influence_ADJ:0 "Clan Ren Tribe"
+CRT_tribalism:0 "Clan Ren Tribe"
+CRT_tribalism_DEF:0 "Clan Ren Tribe"
+CRT_tribalism_ADJ:0 "Clan Ren Tribe"
+CRT_humans_first:0 "Clan Ren Tribe"
+CRT_humans_first_DEF:0 "Clan Ren Tribe"
+CRT_humans_first_ADJ:0 "Clan Ren Tribe"
+CRT_faunus_first:0 "Clan Ren Tribe"
+CRT_faunus_first_DEF:0 "Clan Ren Tribe"
+CRT_faunus_first_ADJ:0 "Clan Ren Tribe"
+CST_democracy:0 "Clan Siliver Tribe"
+CST_democracy_DEF:0 "Clan Siliver Tribe"
+CST_democracy_ADJ:0 "Clan Siliver Tribe"
+CST_monarchist:0 "Clan Siliver Tribe"
+CST_monarchist_DEF:0 "Clan Siliver Tribe"
+CST_monarchist_ADJ:0 "Clan Siliver Tribe"
+CST_grimms_influence:0 "Clan Siliver Tribe"
+CST_grimms_influence_DEF:0 "Clan Siliver Tribe"
+CST_grimms_influence_ADJ:0 "Clan Siliver Tribe"
+CST_tribalism:0 "Clan Siliver Tribe"
+CST_tribalism_DEF:0 "Clan Siliver Tribe"
+CST_tribalism_ADJ:0 "Clan Siliver Tribe"
+CST_humans_first:0 "Clan Siliver Tribe"
+CST_humans_first_DEF:0 "Clan Siliver Tribe"
+CST_humans_first_ADJ:0 "Clan Siliver Tribe"
+CST_faunus_first:0 "Clan Siliver Tribe"
+CST_faunus_first_DEF:0 "Clan Siliver Tribe"
+CST_faunus_first_ADJ:0 "Clan Siliver Tribe"
+UUP_democracy:0 "Unorganized People"
+UUP_democracy_DEF:0 "Unorganized People"
+UUP_democracy_ADJ:0 "Unorganized People"
+UUP_monarchist:0 "Unorganized People"
+UUP_monarchist_DEF:0 "Unorganized People"
+UUP_monarchist_ADJ:0 "Unorganized People"
+UUP_grimms_influence:0 "Unorganized People"
+UUP_grimms_influence_DEF:0 "Unorganized People"
+UUP_grimms_influence_ADJ:0 "Unorganized People"
+UUP_tribalism:0 "Unorganized People"
+UUP_tribalism_DEF:0 "Unorganized People"
+UUP_tribalism_ADJ:0 "Unorganized People"
+UUP_humans_first:0 "Unorganized People"
+UUP_humans_first_DEF:0 "Unorganized People"
+UUP_humans_first_ADJ:0 "Unorganized People"
+UUP_faunus_first:0 "Unorganized People"
+UUP_faunus_first_DEF:0 "Unorganized People"
+UUP_faunus_first_ADJ:0 "Unorganized People"
+DWL_democracy:0 "Dragcis Wyvern's Layer"
+DWL_democracy_DEF:0 "Dragcis Wyvern's Layer"
+DWL_democracy_ADJ:0 "Dragcis Wyvern's Layer"
+DWL_monarchist:0 "Dragcis Wyvern's Layer"
+DWL_monarchist_DEF:0 "Dragcis Wyvern's Layer"
+DWL_monarchist_ADJ:0 "Dragcis Wyvern's Layer"
+DWL_grimms_influence:0 "Dragcis Wyvern's Layer"
+DWL_grimms_influence_DEF:0 "Dragcis Wyvern's Layer"
+DWL_grimms_influence_ADJ:0 "Dragcis Wyvern's Layer"
+DWL_tribalism:0 "Dragcis Wyvern's Layer"
+DWL_tribalism_DEF:0 "Dragcis Wyvern's Layer"
+DWL_tribalism_ADJ:0 "Dragcis Wyvern's Layer"
+DWL_humans_first:0 "Dragcis Wyvern's Layer"
+DWL_humans_first_DEF:0 "Dragcis Wyvern's Layer"
+DWL_humans_first_ADJ:0 "Dragcis Wyvern's Layer"
+DWL_faunus_first:0 "Dragcis Wyvern's Layer"
+DWL_faunus_first_DEF:0 "Dragcis Wyvern's Layer"
+DWL_faunus_first_ADJ:0 "Dragcis Wyvern's Layer"
+DBP_democracy:0 "Dragcis Beowolves Pack"
+DBP_democracy_DEF:0 "Dragcis Beowolves Pack"
+DBP_democracy_ADJ:0 "Dragcis Beowolves Pack"
+DBP_monarchist:0 "Dragcis Beowolves Pack"
+DBP_monarchist_DEF:0 "Dragcis Beowolves Pack"
+DBP_monarchist_ADJ:0 "Dragcis Beowolves Pack"
+DBP_grimms_influence:0 "Dragcis Beowolves Pack"
+DBP_grimms_influence_DEF:0 "Dragcis Beowolves Pack"
+DBP_grimms_influence_ADJ:0 "Dragcis Beowolves Pack"
+DBP_tribalism:0 "Dragcis Beowolves Pack"
+DBP_tribalism_DEF:0 "Dragcis Beowolves Pack"
+DBP_tribalism_ADJ:0 "Dragcis Beowolves Pack"
+DBP_humans_first:0 "Dragcis Beowolves Pack"
+DBP_humans_first_DEF:0 "Dragcis Beowolves Pack"
+DBP_humans_first_ADJ:0 "Dragcis Beowolves Pack"
+DBP_faunus_first:0 "Dragcis Beowolves Pack"
+DBP_faunus_first_DEF:0 "Dragcis Beowolves Pack"
+DBP_faunus_first_ADJ:0 "Dragcis Beowolves Pack"
+DNN_democracy:0 "Dragcis Nevermore Nest"
+DNN_democracy_DEF:0 "Dragcis Nevermore Nest"
+DNN_democracy_ADJ:0 "Dragcis Nevermore Nest"
+DNN_monarchist:0 "Dragcis Nevermore Nest"
+DNN_monarchist_DEF:0 "Dragcis Nevermore Nest"
+DNN_monarchist_ADJ:0 "Dragcis Nevermore Nest"
+DNN_grimms_influence:0 "Dragcis Nevermore Nest"
+DNN_grimms_influence_DEF:0 "Dragcis Nevermore Nest"
+DNN_grimms_influence_ADJ:0 "Dragcis Nevermore Nest"
+DNN_tribalism:0 "Dragcis Nevermore Nest"
+DNN_tribalism_DEF:0 "Dragcis Nevermore Nest"
+DNN_tribalism_ADJ:0 "Dragcis Nevermore Nest"
+DNN_humans_first:0 "Dragcis Nevermore Nest"
+DNN_humans_first_DEF:0 "Dragcis Nevermore Nest"
+DNN_humans_first_ADJ:0 "Dragcis Nevermore Nest"
+DNN_faunus_first:0 "Dragcis Nevermore Nest"
+DNN_faunus_first_DEF:0 "Dragcis Nevermore Nest"
+DNN_faunus_first_ADJ:0 "Dragcis Nevermore Nest"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

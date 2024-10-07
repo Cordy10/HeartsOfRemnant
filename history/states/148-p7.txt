@@ -1,0 +1,17 @@
+state={
+	id=148
+	name="STATE_148"
+	provinces={
+		508 835 984 1280 1787 
+	}
+	manpower=1000
+	buildings_max_level_factor=1.000
+	state_category = town	
+history={
+victory_points = { 1280 1 }
+buildings = { 
+infrastructure = 2 }
+		owner = SLN
+		add_core_of = SLN
+	}
+}

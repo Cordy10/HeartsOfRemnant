@@ -1,0 +1,82 @@
+
+is_enemy_ideology = {
+	OR = {
+		AND = {
+			has_government = anacrhy
+			ROOT = {
+				OR = {
+					has_government = democratic
+					has_government = humans_first
+					has_government = neutrality
+					has_government = faunus_first
+					has_government = huntsmen
+				}
+			}
+		}
+		AND = {
+			has_government = democratic
+			ROOT = {
+				OR = {
+					has_government = faunus_first
+					has_government = anacrhy
+					has_government = humans_first
+					has_government = grimms_influence
+				}
+			}
+		}
+		AND = {
+			has_government = grimms_influence
+			ROOT = {
+				OR = {
+					has_government = democratic
+					has_government = humans_first
+					has_government = neutrality
+					has_government = faunus_first
+					has_government = huntsmen
+				}
+			}
+		}
+		AND = {
+			has_government = neutrality
+			ROOT = {
+				OR = {
+					has_government = anacrhy
+					has_government = grimms_influence
+				}
+			}
+		}
+		AND = {
+			has_government = humans_first
+			ROOT = {
+				OR = {
+					has_government = neutrality
+					has_government = democratic
+					has_government = faunus_first
+					has_government = grimms_influence
+				}
+			}
+		}
+		AND = {
+			has_government = faunus_first
+			ROOT = {
+				OR = {
+					has_government = neutrality
+					has_government = democratic
+					has_government = humans_first
+					has_government = grimms_influence
+
+				}
+			}
+		}
+		AND = {
+			has_government = huntsmen
+			ROOT = {
+				OR = {
+
+					has_government = grimms_influence
+					has_government = anacrhy
+				}
+			}
+		}
+	}
+}

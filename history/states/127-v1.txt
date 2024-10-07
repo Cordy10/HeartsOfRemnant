@@ -1,0 +1,17 @@
+state={
+	id=127
+	name="STATE_127"
+	provinces={
+		196 322 368 395 588 981 1102 1241 1289 1822 1858 2323 
+	}
+	manpower=1000
+	buildings_max_level_factor=1.000
+	state_category = town	
+history={
+victory_points = { 196 1 }
+buildings = { 
+infrastructure = 2 }
+		owner = VAL
+		add_core_of = VAL
+		}
+}

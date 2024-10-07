@@ -1,0 +1,19 @@
+state={
+	id=125
+	name="Stfansiw"
+	provinces={
+		49 231 844 846 976 1166 1367 1901 1908 
+	}
+	manpower=1000
+	buildings_max_level_factor=1.000
+state_category = rural
+			history={
+victory_points = { 1908 1 }
+		owner = ATL
+		
+		add_core_of = ATL
+        buildings = {
+infrastructure = 2
+}
+	}
+}

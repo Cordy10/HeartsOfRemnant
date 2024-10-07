@@ -1,0 +1,16 @@
+state={
+	id=325
+	name="STATE_325"
+	provinces={
+		286 328 524 971 1067 1639 2025 2041 2052 
+	}
+	manpower=100
+	buildings_max_level_factor=1.000
+	state_category = town
+	local_supplies=0.000
+history={
+victory_points = { 328 1 }
+		owner = DBP
+		add_core_of = DBP
+	}
+}

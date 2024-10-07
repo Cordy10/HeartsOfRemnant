@@ -1,0 +1,16 @@
+state={
+	id=27
+	name="STATE_27"
+	provinces={
+		1210 1381 1455 2497 2501 2503 
+	}
+	manpower=20000
+	buildings_max_level_factor=1.000
+		state_category = large_city
+history={
+victory_points = { 1210 1 }
+		owner = MEN
+		
+		add_core_of = MEN
+	}
+}

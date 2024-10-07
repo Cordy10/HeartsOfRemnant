@@ -1,0 +1,17 @@
+state={
+	id=190
+	name="STATE_190"
+	provinces={
+		547 559 1515 1772 1943 1948 
+	}
+	manpower=1000
+	buildings_max_level_factor=1.000
+	state_category = town	
+history={
+victory_points = { 1943 1 }
+buildings = { 
+infrastructure = 2 }
+		owner = MMM
+		add_core_of = MMM
+		}
+}

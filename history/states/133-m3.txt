@@ -1,0 +1,17 @@
+state={
+	id=133
+	name="STATE_133"
+	provinces={
+		271 308 952 1362 1680 1684 1714 1724 1733 2402 
+	}
+	manpower=1000
+	buildings_max_level_factor=1.000
+	state_category = town	
+history={
+victory_points = { 1362 1 }
+buildings = { 
+infrastructure = 2 }
+		owner = MCC
+		add_core_of = MCC
+	}
+}
