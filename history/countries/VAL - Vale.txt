@@ -32,6 +32,29 @@ set_popularities = {
 	monarchist = 75
 }
 
+# DIPLOMACY
+if = {
+	limit = {
+		OR = {
+			has_dlc = "Together for Victory"
+			has_dlc = "Man the Guns"
+		}
+	}
+	set_autonomy = {
+		target = VEC
+		autonomous_state = autonomy_dominion
+		freedom_level = 0.1
+	}
+	set_autonomy = {
+		target = VSC
+		autonomous_state = autonomy_dominion
+		freedom_level = 0.1
+	}
+	else = {
+		puppet = VSC
+		puppet = VEC
+	}
+}
 set_convoys = 50
 
 recruit_character = VAL_leader

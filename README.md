@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/Version%3A-0.05-green) ![Static Badge](https://img.shields.io/badge/Status%3A-Non_Functional-red)
+![Static Badge](https://img.shields.io/badge/Version%3A-0.06-green) ![Static Badge](https://img.shields.io/badge/Status%3A-Functional-green)
 
 # Hearts Of Remnant
 A Hearts of Iron IV full conversion mod inspired by the Great War from RWBY. This is an unlicensed production, and I do not claim ownership or rights to any of the names, images, or music used in this mod unless explicitly stated otherwise.
@@ -14,7 +14,7 @@ TBA
 Based On [The World Of RWBY](https://rwby.fandom.com/wiki/RWBY_Wiki).
 Check Out [This Video For The Lore](https://www.youtube.com/watch?v=_zJpipFv4iQ).
 # RoadMap
-**The current version:** 0.05 Early Development
+**The current version:** 0.06 Early Development
 ## **Version 1 Roadmap**
 - **Version 0.1:** The Kingdom Of Vale and Kingdom Of Mantle Focus Tree's, Road to War Part 1 Update
 - **Version 0.2:** The Kingdom Of Mistral and Kingdom of Vacuo Focus Tree's, Road to War Part 2 Update

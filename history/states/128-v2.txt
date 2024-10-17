@@ -1,16 +1,19 @@
-state={
-	id=128
-	name="STATE_128"
-	provinces={
-		627 822 853 1549 2333 
+state = {
+	id = 128
+	name = "STATE_128"
+	provinces = { 627 822 853 1549 2333 }
+	manpower = 5000
+	buildings_max_level_factor = 1.000
+	state_category = rural	
+	resources = {
+		oil = 5
+		rubber = 5
 	}
-	manpower=1000
-	buildings_max_level_factor=1.000
-	state_category = town	
-history={
-victory_points = { 1549 1 }
-buildings = { 
-infrastructure = 2 }
+	history = {
+		victory_points = { 1549 1 }
+		buildings = { 
+			infrastructure = 1
+		}
 		owner = VAL
 		add_core_of = VAL
 	}

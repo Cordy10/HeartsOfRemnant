@@ -1,20 +1,22 @@
-state={
-	id=5
-	name="Vale"
-	provinces={
-	2160 580 284 593 2159 1457 2186 2171 487
+state = {
+	id = 5
+	name = "Vale"
+	provinces = { 2160 580 284 593 2159 1457 2186 2171 487 }
+	manpower = 75900
+	state_category = megalopolis	
+	buildings_max_level_factor = 1.000
+	resources = {
+		steel = 40
 	}
-	manpower=75000
-    state_category = large_city	
-	buildings_max_level_factor=1.000
-history={
+	history = {
 		owner = VAL
 		add_core_of = VAL
-	victory_points = { 2171 25 }
-buildings = {
-	infrastructure = 3
-            industrial_complex = 2
-            arms_factory = 2
-	}
+		victory_points = { 2171 25 }
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			arms_factory = 3
+		}
 	}
 }
+

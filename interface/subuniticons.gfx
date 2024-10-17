@@ -92,6 +92,11 @@ spriteTypes = {
 	spriteType = { name = "GFX_unit_jungle_pioneers_support_icon_medium"					textureFile = "gfx/interface/counters/divisions_large/unit_jungle_pioneers_support_icon.dds" noOfFrames = 2 }
 	spriteType = { name = "GFX_unit_integralist_militia_icon_medium"						textureFile = "gfx/interface/counters/divisions_large/unit_integralist_militia_icon.dds" noOfFrames = 2 }
 	
+	spriteType = { name = "GFX_unit_hunter_icon_medium"						textureFile = "gfx/interface/counters/divisions_large/unit_hunter_icon.dds" noOfFrames = 2 }
+	spriteType = { name = "GFX_unit_rwbyinfantry_icon_medium"						textureFile = "gfx/interface/counters/divisions_large/unit_rwbyinfantry_icon.dds" noOfFrames = 2 }
+	spriteType = { name = "GFX_unit_rwbymilitia_icon_medium"						textureFile = "gfx/interface/counters/divisions_large/unit_rwbymilitia_icon.dds" noOfFrames = 2 }
+	spriteType = { name = "GFX_unit_guard_icon_medium"						textureFile = "gfx/interface/counters/divisions_large/unit_guard_icon.dds" noOfFrames = 2 }
+					
 
 	####################################################
 	### Small images for DIVISIONS (On-map-counters) ###
@@ -398,4 +403,27 @@ spriteTypes = {
 	#spriteType = { name = "GFX_unit_transport_icon_medium"				texturefile = "gfx/interface/navalcombat/ships/transport.dds"			noOfFrames = 2 } # Removed from Database
 	spriteType = { name = "GFX_unit_convoy_1_icon_medium"				texturefile = "gfx/interface/navalcombat/ships/convoy.dds"				noOfFrames = 2 }
 	
+}
+
+spriteTypes = {	
+
+   spriteType = { 
+     name = "GFX_unit_<your unit name>_icon_medium"				
+     textureFile = "gfx/interface/counters/divisions_large/<your unit name>_icon.dds"  ## Thats the paradox shepe, but you can use any path and file naming you want
+     noOfFrames = 2
+   }
+
+   spriteType = { 
+     name = "GFX_unit_<your unit name>_icon_medium_white" # Do not omit "medium"						
+     textureFile = "gfx/interface/counters/divisions_small/onmap_unit_<your unit name>_icon.dds" 
+     noOfFrames = 2
+   }
+
+   spriteType = {
+     name = "GFX_unit_<your unit name>_icon_small"
+     texturefile = "gfx/texticons/unit_<your unit name>_icon_small.dds"
+     legacy_lazy_load = no
+     noOfFrames = 2		
+   }		
+
 }

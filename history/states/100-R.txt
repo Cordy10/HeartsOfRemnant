@@ -1,16 +1,21 @@
-state={
-	id=100
-	name="STATE_100"
-	provinces={
-		96 253 929 1182 1218 1274 1392 1418 1536 1552 1866 2242 2246 2247 2259 2274 
+state = {
+	id = 100
+	name = "STATE_100"
+	provinces = { 96 253 929 1182 1218 1274 1392 1418 1536 1552 1866 2242 2246 2247 2259 2274 }
+	manpower = 6780
+	buildings_max_level_factor = 1.000
+	state_category = rural	
+	resources = {
+		tungsten = 15
+		steel = 5
+		rubber = 3
 	}
-	manpower=1000
-	buildings_max_level_factor=1.000
-	state_category = town	
-history={
-victory_points = { 1392 1 }
-buildings = { 
-infrastructure = 2 }
+	history = {
+		victory_points = { 1392 1 }
+		buildings = { 
+			infrastructure = 1 
+			industrial_complex = 1
+		}
 		owner = VAL
 		add_core_of = VAL
 	}

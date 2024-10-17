@@ -1,17 +1,28 @@
-state={
-	id=6
-	name="Traden"
-	provinces={
-	2262 731 2281 2272 1804 563 2290 1390 1578
+state = {
+	id = 6
+	name = "Traden"
+	provinces = { 2262 731 2281 2272 1804 563 2290 1390 1578 }
+	manpower = 63000
+	state_category = large_town	
+	buildings_max_level_factor = 1.000
+	resources = {
+		steel = 10
+		tungsten = 10
 	}
-	manpower=13000
-    state_category = large_town	
-	buildings_max_level_factor=1.000
-history={
-victory_points = { 2262 1 }
+	history = {
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+			dockyard = 1
+			2262 = {
+				coastal_bunker = 1
+				naval_base = 1
+			}
+		}
+		victory_points = { 2262 5 }
 		owner = VAL
-		
 		add_core_of = VAL
 	}
-
 }
+

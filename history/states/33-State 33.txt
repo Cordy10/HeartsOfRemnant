@@ -1,17 +1,22 @@
-state={
-	id=33
-	name="STATE_33"
-	provinces={
-		415 1035 1223 1454 2206 2220 241 2215 1087 796 1737 2199 906
+state = {
+	id = 33
+	name = "STATE_33"
+	provinces = { 415 1035 1223 1454 2206 2220 241 2215 1087 796 1737 2199 906 }
+	manpower = 7690
+	buildings_max_level_factor = 1.000
+	state_category = rural	
+	resources = {
+		steel = 10
+		rubber = 5
 	}
-	manpower=1000
-	buildings_max_level_factor=1.000
-	state_category = town	
-history={
-victory_points = { 241 1 }
-buildings = { 
-infrastructure = 2 }
+	history = {
+		victory_points = { 241 1 }
+		buildings = { 
+			infrastructure = 1 
+			industrial_complex = 1
+		}
 		owner = VAL
 		add_core_of = VAL
 	}
 }
+

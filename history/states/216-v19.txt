@@ -1,16 +1,22 @@
-state={
-	id=216
-	name="STATE_216"
-	provinces={
+state = {
+	id = 216
+	name = "STATE_216"
+	provinces = {
 		335 336 490 992 1374 1602 1799 2454 
 	}
-	manpower=1000
-	buildings_max_level_factor=1.000
-	state_category = town	
-history={
-victory_points = { 1799 1 }
-buildings = { 
-infrastructure = 2 }
+	manpower = 7300
+	buildings_max_level_factor = 1.000
+	state_category = rural
+	resources = {
+		rubber = 5
+		steel = 3
+	}
+	history = {
+		victory_points = { 1799 1 }
+		buildings = { 
+			infrastructure = 1 
+			industrial_complex = 1
+		}
 		owner = VSC
 		add_core_of = VSC
 	}

@@ -1,16 +1,23 @@
-state={
-	id=232
-	name="STATE_232"
-	provinces={
+state = {
+	id = 232
+	name = "STATE_232"
+	provinces = {
 		526 827 1208 1228 1262 1811 2080 2081 
 	}
-		manpower=1000
-	buildings_max_level_factor=1.000
-	state_category = town	
-history={
-victory_points = { 526 1 }
-buildings = { 
-infrastructure = 2 }
+	manpower = 23600
+	buildings_max_level_factor = 1.000
+	state_category = city
+	resources = {
+		steel = 15
+		aluminium = 5
+	}
+	history = {
+		victory_points = { 526 10 }
+		buildings = { 
+			infrastructure = 2 
+			industrial_complex = 1
+			arms_factory = 1
+		}
 		owner = VEC
 		add_core_of = VEC
 	}

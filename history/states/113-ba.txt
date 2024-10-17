@@ -1,16 +1,28 @@
-state={
-	id=113
-	name="STATE_113"
-	provinces={
+state = {
+	id = 113
+	name = "STATE_113"
+	provinces = {
 		474 641 1045 1120 1366 1517 1663 1718 1738 1818 2084 2092 2094 2098 2106 2107 2110 2115 
 	}
-	manpower=1000
-	buildings_max_level_factor=1.000
-	state_category = town	
-history={
-victory_points = { 474 1 }
-buildings = { 
-infrastructure = 2 }
+	manpower = 17000
+	buildings_max_level_factor = 1.000
+	state_category = large_town
+	resources = {
+		steel = 10
+		oil = 5
+	}
+	history = {
+		victory_points = { 474 5 }
+		buildings = { 
+			infrastructure = 2 
+			industrial_complex = 1
+			arms_factory = 1
+			dockyard = 1
+			474 = {
+				coastal_bunker = 1
+				naval_base = 2
+			}
+		}
 		owner = VEC
 		add_core_of = VEC
 	}
