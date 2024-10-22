@@ -1,0 +1,92 @@
+#Create units
+division_template = {
+	name = "Hunter Killer Brigade"
+    regiments = {
+        hunter = { x = 0 y = 0 }
+        hunter = { x = 0 y = 1 }
+        hunter = { x = 1 y = 0 }
+        hunter = { x = 1 y = 1 }
+    }
+    support = {
+		logistics = { x = 0 y = 0 }
+    }
+}
+division_template = {
+	name = "Town Garrison"
+    regiments = {
+        guard = { x = 0 y = 0 }
+        guard = { x = 0 y = 1 }
+        guard = { x = 1 y = 0 }
+        guard = { x = 1 y = 1 }
+    }
+    support = {
+    }
+}
+division_template = {
+	name = "Mistral Army Division"
+    regiments = {
+        rwbyinfantry = { x = 0 y = 0 }
+        rwbyinfantry = { x = 0 y = 1 }
+        rwbyinfantry = { x = 0 y = 2 }
+        rwbyinfantry = { x = 0 y = 3 }
+		rwbyinfantry = { x = 1 y = 0 }
+        rwbyinfantry = { x = 1 y = 1 }
+        rwbyinfantry = { x = 1 y = 2 }
+        rwbyinfantry = { x = 1 y = 3 }
+        artillery_brigade = { x = 2 y = 0 }
+    }
+    support = {
+        artillery = { x = 0 y = 0 }
+    }
+}
+division_template = {
+	name = "Mistral Suppression Division"
+    regiments = {
+        rwbyinfantry = { x = 0 y = 0 }
+        rwbyinfantry = { x = 0 y = 1 }
+        rwbyinfantry = { x = 0 y = 2 }
+        rwbyinfantry = { x = 0 y = 3 }
+        artillery_brigade = { x = 1 y = 0 }
+    }
+    support = {
+    }
+}
+
+#Spawn units
+units = {
+	division = {
+		name = "Mistral Hunter Killer Brigade"
+		location = 961
+		division_template = "Hunter Killer Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = "1st Mistral Suppression Division"
+		location = 412
+		division_template = "Mistral Suppression Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = "2nd Mistral Suppression Division"
+		location = 1715
+		division_template = "Mistral Suppression Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9
+	}    
+	division = {
+		name = "3rd Mistral Suppression Division"
+		location = 1802
+		division_template = "Mistral Suppression Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = "4th Mistral Suppression Division"
+		location = 1333
+		division_template = "Mistral Suppression Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9
+	}    
+}
