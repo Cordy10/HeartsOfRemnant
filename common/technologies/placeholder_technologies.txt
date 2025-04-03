@@ -1,0 +1,5 @@
+technologies = {
+	placeholder_tech_1 = {
+		local_resources_factor = 0.05
+	}
+}

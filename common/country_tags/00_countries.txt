@@ -1,5 +1,4 @@
-﻿
-GRM = "countries/Salem's Faction.txt"
+﻿GRM = "countries/Salem's Faction.txt"
 ATL = "countries/Kingdom of Atlas.txt"
 VAL = "countries/Vale.txt"
 VAC = "countries/Kingdom of Vacuo.txt"

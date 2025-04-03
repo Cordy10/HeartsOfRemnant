@@ -1,9 +1,9 @@
 characters={
-	Generic={
-		name="Generic"
+	GRM_Salem={
+		name=GRM_Salem
 		portraits={
 			civilian={
-				large= GFX_portrait_europe_generic_4
+				large= GFX_GRM_leader
 			}
 		}
 		country_leader={

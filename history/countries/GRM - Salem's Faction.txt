@@ -9,14 +9,7 @@ set_technology = {
 	early_fighter = 1
 }
 
-create_country_leader = {
-	name = "Édouard Daladier"
-	desc = "POLITICS_ÉDOUARD_DALADIER_DESC"
-	picture = "Portrait_France_Edouard_Daladier.dds"
-	expire = "1965.1.1"
-	ideology = Salem
-
-}
+recruit_character = GRM_Salem
 set_convoys = 10
 
 set_popularities = {
