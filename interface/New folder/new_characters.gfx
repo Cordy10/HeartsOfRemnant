@@ -30,4 +30,8 @@ spriteTypes = {
 		name = "GFX_GRM_leader"
 		texturefile = "gfx/leaders/Human/GRM_leader.dds"			
 	}
+	SpriteType = {
+		name = "GFX_Test_Portrait"
+		texturefile = "gfx/leaders/Test_portrait.dds"			
+	}
 }	

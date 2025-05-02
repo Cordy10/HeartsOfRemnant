@@ -10,6 +10,7 @@ division_template = {
     support = {
 		logistics = { x = 0 y = 0 }
     }
+	template_counter = 3
 }
 division_template = {
 	name = "Town Garrison"
@@ -21,6 +22,7 @@ division_template = {
     }
     support = {
     }
+	template_counter = 8
 }
 division_template = {
 	name = "Vale Militia"
@@ -34,6 +36,7 @@ division_template = {
     support = {
         logistics = { x = 0 y = 0 }
     }
+	template_counter = 9
 }
 
 #Spawn units
