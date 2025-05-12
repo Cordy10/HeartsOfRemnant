@@ -298,6 +298,7 @@ continent = {
 				male = { 
 					"GFX_Portrait_Asia_Generic_3" 
 			}
+		}	
 		humans_first = {
 				male = { 
 					"GFX_Portrait_Asia_Generic_3" 

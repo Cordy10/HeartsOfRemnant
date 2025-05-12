@@ -32,6 +32,7 @@ focus_tree = {
 			FOCUS_FILTER_POLITICAL
 		}
 		prerequisite = { focus = VL1_a_colony  }
+		mutually_exclusive = { focus = VL1_a_new_path }
 		ai_will_do = { factor = 50 }
 	}
 
@@ -165,6 +166,11 @@ focus_tree = {
 			FOCUS_FILTER_WAR_SUPPORT
 		}
 		prerequisite = { focus = VL1_what_do_we_want  }
+		mutually_exclusive = {
+			focus = VL1_approach_atlas
+			focus = VL1_approach_mantle
+			focus = VL1_approach_vacuo
+		}
 	}
 
 	#New Industry
@@ -281,7 +287,11 @@ focus_tree = {
 			FOCUS_FILTER_WAR_SUPPORT
 		}
 		prerequisite = { focus = VL1_what_do_we_want  }
-		mutually_exclusive = { focus = VL1_we_stand_alone  }
+		mutually_exclusive = {
+			focus = VL1_we_stand_alone
+			focus = VL1_approach_mantle
+			focus = VL1_approach_vacuo
+		}
 	}
 
 	#Approach Mantle
@@ -295,7 +305,11 @@ focus_tree = {
 			FOCUS_FILTER_WAR_SUPPORT
 		}
 		prerequisite = { focus = VL1_what_do_we_want  }
-		mutually_exclusive = { focus = VL1_we_stand_alone  } mutually_exclusive = { focus = VL1_approach_atlas  }
+		mutually_exclusive = {
+			focus = VL1_we_stand_alone
+			focus = VL1_approach_atlas
+			focus = VL1_approach_vacuo
+		}
 	}
 
 	#Approach Vacuo
@@ -309,7 +323,11 @@ focus_tree = {
 			FOCUS_FILTER_WAR_SUPPORT
 		}
 		prerequisite = { focus = VL1_what_do_we_want  }
-		mutually_exclusive = { focus = VL1_we_stand_alone  } mutually_exclusive = { focus = VL1_approach_atlas  } mutually_exclusive = { focus = VL1_approach_mantle  }
+		mutually_exclusive = {
+			focus = VL1_we_stand_alone
+			focus = VL1_approach_atlas
+			focus = VL1_approach_mantle
+		}
 	}
 
 	#Faunus Equality
@@ -323,6 +341,10 @@ focus_tree = {
 			FOCUS_FILTER_POLITICAL
 		}
 		prerequisite = { focus = VL1_we_stand_alone  }
+		mutually_exclusive = { 
+			focus = VL1_humans_first
+			focus = VL1_faunus_first  
+		}
 	}
 
 	#Humans First
@@ -336,7 +358,10 @@ focus_tree = {
 			FOCUS_FILTER_POLITICAL
 		}
 		prerequisite = { focus = VL1_we_stand_alone  }
-		mutually_exclusive = { focus = VL1_faunus_equality  }
+		mutually_exclusive = { 
+			focus = VL1_faunus_equality
+			focus = VL1_faunus_first  
+		}
 	}
 
 	#Faunus First
@@ -350,7 +375,10 @@ focus_tree = {
 			FOCUS_FILTER_POLITICAL
 		}
 		prerequisite = { focus = VL1_we_stand_alone  }
-		mutually_exclusive = { focus = VL1_faunus_equality  } mutually_exclusive = { focus = VL1_humans_first  }
+		mutually_exclusive = { 
+			focus = VL1_humans_first
+			focus = VL1_faunus_equality
+		}
 	}
 
 	#Civil War Human
