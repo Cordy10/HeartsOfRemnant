@@ -20,11 +20,6 @@ technologies = {
 			position = {x =0 y =0 }
 		}
 		local_resources_factor = 0.05
-		enable_equipments = {
-			infantry_equipment
-			support_equipment
-			artillery_equipment
-		}
 		categories = {cat_placeholder}
 	}
 	placeholder_tech_2 = {

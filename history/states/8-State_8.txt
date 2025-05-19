@@ -11,6 +11,9 @@ history={
 		owner = GRM
 			victory_points = { 2314 25 }
 		add_core_of = GRM
+		buildings = {
+			2314 = {placeholder_facility = 1}
+		}
 	}
 
 }

@@ -1,0 +1,46 @@
+placeholder_prototype_reward_token = {
+	narrative = {
+		name = placeholder_prototype_reward_token_name
+		desc = placeholder_prototype_reward_token_desc
+	}
+	icon = GFX_placeholder
+	fire_only_once = no
+	threshold = {
+		min = 0
+		max = 100
+	}
+	weight = {
+		base = 1.0
+	}
+
+	allowed = {
+		always = yes
+	}
+	option = {
+		token = placeholder_prototype_reward_option_token
+		default = yes
+		narrative = {
+			name = placeholder_prototype_reward_option_token_name
+		}
+		iteration_output = {
+			country_effects = {
+				add_political_power = 1
+			}
+		}
+	}
+}
+placeholder_prototype_reward = {
+	token = placeholder_prototype_reward_token
+	fire_only_once = no
+	threshold = {
+		min = 0
+		max = 100
+	}
+	iteration_output = {
+		country_effects = {
+			add_political_power = 1
+		}
+	}	
+
+
+}
