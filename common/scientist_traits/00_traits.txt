@@ -1,5 +1,0 @@
-placeholder_scientist_trait = {
-	modifier = {
-		scientist_breakthrough_bonus_factor = 0.1
-	}
-}

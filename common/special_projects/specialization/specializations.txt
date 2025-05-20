@@ -1,4 +1,0 @@
-placeholder_specialization = {
-	color = {255 255 255} 
-	program_background = "GFX_sp_facility_card_bg"
-}
