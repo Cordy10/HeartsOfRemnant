@@ -1,2 +1,27 @@
-
-
+#Needs _item and _item_small in GFX!
+technologies = {	
+	placeholder_tech_1 = { 
+		research_cost = 1
+		start_year = 90
+		folder = {
+			name = placeholder_folder
+			position = {x = 1 y = 1 }
+		}
+		path = {
+			leads_to_tech = placeholder_tech_2
+			research_cost_coeff = 1
+		}
+		local_resources_factor = 0.05
+		categories = {cat_placeholder}
+	}
+	placeholder_tech_2 = {
+		research_cost = 1
+		start_year = 90
+		folder = {
+			name = placeholder_folder
+			position = {x = 3 y =1 }
+		}
+		local_resources_factor = 0.05
+		categories = {cat_placeholder}
+	}
+}
