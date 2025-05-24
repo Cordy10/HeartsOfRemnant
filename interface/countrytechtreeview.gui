@@ -35,7 +35,7 @@ guiTypes = {
 
 		background = {
 			name = "Background"
-			quadTextureSprite ="GFX_tiled_plain_bg2"
+			quadTextureSprite ="GFX_tiled_plain_bg"
 		}
 
 		containerWindowType = {	#Placeholder Folder
@@ -50,7 +50,7 @@ guiTypes = {
 
 			background = {
 				name = "Background"
-				quadTextureSprite ="GFX_tiled_window_2b_border"
+				quadTextureSprite ="GFX_tiled_paper_bg"
 			}
 
 			containerWindowType = {
