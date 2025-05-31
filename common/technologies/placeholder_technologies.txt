@@ -2,7 +2,7 @@
 technologies = {	
 	placeholder_tech_1 = { 
 		research_cost = 1
-		start_year = 90
+		start_year = 100
 		folder = {
 			name = placeholder_folder
 			position = {x = 1 y = 1 }
@@ -16,7 +16,7 @@ technologies = {
 	}
 	placeholder_tech_2 = {
 		research_cost = 1
-		start_year = 90
+		start_year = 100
 		folder = {
 			name = placeholder_folder
 			position = {x = 3 y =1 }
