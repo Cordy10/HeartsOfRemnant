@@ -12,8 +12,13 @@ state={
     }
 history={
 victory_points = { 309 1 }
-buildings = { 
-infrastructure = 2 }
+	buildings = { 
+		infrastructure = 2
+		dockyard = 1 
+		309 = {
+			naval_base = 1
+		}	
+	}
 		owner = EUP
 		add_core_of = EUP
 		}

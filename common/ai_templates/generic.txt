@@ -1,8 +1,8 @@
 
-placeholder_generic = {
-	role = {placeholder_role}
+placeholder_generic_1 = {
+	role = placeholder_role_1
 	upgrade_prio = {base = 1}
-	match_to_count = 0.2
+
 	placeholder_template_1 = {
 		target_width = 10
 		width_weight = 0.1
@@ -13,6 +13,24 @@ placeholder_generic = {
 			#support = {}
 			regiments = {
 				rwbyinfantry=1
+			}
+		}
+	}	
+}
+placeholder_generic_2 = {
+	role = placeholder_role_2
+	upgrade_prio = {base = 1}
+
+	placeholder_template_2 = {
+		target_width = 10
+		width_weight = 0.1
+		column_swap_factor = 0.1
+		target_template = {
+			weight = 0.1
+			match_value = 1
+			#support = {}
+			regiments = {
+				rwbyinfantry=3
 			}
 		}
 	}	

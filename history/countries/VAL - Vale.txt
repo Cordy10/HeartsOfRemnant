@@ -8,9 +8,7 @@ set_technology = {
 #	placeholder_tech_1 = 1
 }
 add_ideas = {
-    #laws
-    war_economy
-    extensive_conscription
+        placeholder_idea
 }
 set_politics = {
 	ruling_party = monarchist

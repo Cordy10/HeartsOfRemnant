@@ -21,7 +21,31 @@ technologies = {
 			name = placeholder_folder
 			position = {x = 3 y =1 }
 		}
+		path = {
+			leads_to_tech = placeholder_tech_3
+			research_cost_coeff = 1
+		}		
 		local_resources_factor = 0.05
+		enable_equipments = {
+			placeholder_ship_hull
+			placeholder_ship
+		}
+		enable_subunits = {
+			placeholder_ship_unit
+		}
+		enable_equipment_modules = {
+			fixed_placeholder_ship_module
+		}
 		categories = {cat_placeholder}
 	}
+	placeholder_tech_3 = {
+		research_cost = 1
+		start_year = 100
+		folder = {
+			name = placeholder_folder
+			position = {x = 5 y =1 }
+		}
+		stability_weekly_factor = 0.01
+		categories = {cat_placeholder}
+	}	
 }

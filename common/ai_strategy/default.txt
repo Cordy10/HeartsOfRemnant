@@ -30,3 +30,40 @@ MIS_befriend_VAL = {
         value = 100
     }
 }
+placeholder_role_ratio = {
+    allowed = {
+        always = yes
+    }
+    enable = {
+        always = yes
+    }
+    abort = {
+        always = no
+    }
+    ai_strategy = {
+        type = role_ratio
+        id = placeholder_role_1
+        value = 50
+    }
+    ai_strategy = {
+        type = role_ratio
+        id = placeholder_role_2
+        value = 10
+    }    
+}
+placeholder_ship_role_ratio = {
+    allowed = {
+        always = yes
+    }
+    enable = {
+        num_of_naval_factories > 0
+    }
+    abort_when_not_enabled = yes
+    ai_strategy = {
+        type = role_ratio
+        id = placeholder_ship_role
+        value = 50
+    }   
+}
+
+

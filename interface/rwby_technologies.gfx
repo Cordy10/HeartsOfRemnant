@@ -4,3 +4,9 @@ spriteTypes = {
 		texturefile = "gfx/interface/technologies/placeholder.dds"
 	}
 }
+spriteTypes = {
+	SpriteType = {
+		name = "GFX_placeholder"
+		texturefile = "gfx/interface/technologies/placeholder.dds"
+	}
+}
