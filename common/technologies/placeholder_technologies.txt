@@ -29,12 +29,16 @@ technologies = {
 		enable_equipments = {
 			placeholder_ship_hull
 			placeholder_ship
+			placeholder_armored_vehicle_equipment_archetype
+			placeholder_armored_vehicle_equipment
 		}
 		enable_subunits = {
 			placeholder_ship_unit
+			placeholder_armored_vehicle_unit
 		}
 		enable_equipment_modules = {
 			fixed_placeholder_ship_module
+			placeholder_armored_vehicle_module
 		}
 		categories = {cat_placeholder}
 	}

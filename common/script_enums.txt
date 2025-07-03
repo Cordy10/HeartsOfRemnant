@@ -647,5 +647,13 @@ script_enum_equipment_bonus_type = {
 
 	placeholder_ship_hull
 	placeholder_ship
-	placeholder_ship_unit
+#	placeholder_ship_unit
+
+	placeholder_plane_equipment_archetype
+	placeholder_plane_equipment
+#	placeholder_plane
+
+	placeholder_armored_vehicle_equipment_archetype
+	placeholder_armored_vehicle_equipment
+#	placeholder_armored_vehicle_unit
 }

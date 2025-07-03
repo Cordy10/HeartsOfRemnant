@@ -39,7 +39,15 @@ idea_categories = {
 	placeholder_idea_category = {
 		slot = placeholder_slot
 		character_slot = placeholder_character_slot
-
+		character_slot = placeholder_character_slot		
+		character_slot = placeholder_character_slot
+		character_slot = placeholder_character_slot
+		character_slot = placeholder_character_slot
+		character_slot = placeholder_character_slot		
+		character_slot = placeholder_character_slot
+		character_slot = placeholder_character_slot
+		character_slot = placeholder_character_slot
+		character_slot = placeholder_character_slot							
 		ledger = civilian
 
 		cost = 1

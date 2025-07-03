@@ -46,6 +46,7 @@ if = {
 set_convoys = 50
 
 recruit_character = VAL_leader
+recruit_character = VAL_placeholder_scientist
 
 
 
