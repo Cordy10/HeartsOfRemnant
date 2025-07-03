@@ -7,7 +7,7 @@ placeholder_project_token = {
 
 	resource_cost = {
 		resources = {
-			steel = 1
+			placeholder_resource = 1
 		}
 	}
 	complexity = 100

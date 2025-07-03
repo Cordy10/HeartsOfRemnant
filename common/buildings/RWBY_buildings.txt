@@ -20,4 +20,17 @@ buildings = {
 			group_by = special_project_facility
 		}
 	}
+	rwby_factory = {
+		icon_frame = 5
+		base_cost = 150
+		level_cap = {
+			state_max = 5
+		}
+		state_modifiers = {
+			attrition_for_controller = -0.1
+			enemy_army_speed_factor = -0.25			
+		}
+
+		
+	}
 }

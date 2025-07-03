@@ -19,7 +19,7 @@ equipments = {
 
 		build_cost_ic = 1
 		resources = {
-			steel = 1
+			placeholder_resource = 1
 		}
 	}
 	# regular trains
@@ -41,7 +41,7 @@ equipments = {
 		is_buildable = no
 		build_cost_ic = 50
 		resources = {
-			steel = 1
+			placeholder_resource = 1
 		}
 	}
 	# armored trains

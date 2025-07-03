@@ -65,5 +65,36 @@ placeholder_ship_role_ratio = {
         value = 50
     }   
 }
+build_civilian_factories_initial = {
+    allowed = {
+        always = yes
+    }
+    enable = {
+        num_of_civilian_factories < 30
+    }
+    abort_when_not_enabled = yes
+    ai_strategy = {
+        type = building_target
+        id = rwby_factory
+        value = 30
+    }
+}
+build_dockyards = {
+    allowed = {
+        always = yes
+    }
+    enable = {
+        num_of_civilian_factories > 29
+        any_controlled_state = {
+            is_coastal = yes
+        }
+    }
+    abort_when_not_enabled = yes
+    ai_strategy = {
+        type = building_target
+        id = dockyard
+        value = 5
+    }
+}
 
 
