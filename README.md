@@ -1,5 +1,5 @@
 ![Static Badge](https://img.shields.io/badge/Version%3A-0.06-green) ![Static Badge](https://img.shields.io/badge/Status%3A-Functional-green)
-
+#K, This is my repository, sincerely, Cordy 3237
 # Hearts Of Remnant
 A Hearts of Iron IV full conversion mod inspired by the Great War from RWBY. This is an unlicensed production, and I do not claim ownership or rights to any of the names, images, or music used in this mod unless explicitly stated otherwise.
 Hearts of Remnant is a full conversion mod for Hearts of Iron IV, inspired by the world of RWBY. This project is a labor of love that began in 2019 and has seen intermittent development since then. Due to the nature of the original project’s setup, a new repository was deemed necessary. This repository will serve multiple purposes:
